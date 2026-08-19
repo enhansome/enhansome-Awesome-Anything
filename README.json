@@ -1,59 +1,9 @@
 {
-  "items": [
-    {
-      "description": "",
-      "items": [],
-      "title": "AnyObject"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "AnyGeneration"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Any3D"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "AnyModel"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "AnyTask"
-    },
-    {
-      "description": "A paper list for Anything AI",
-      "items": [],
-      "title": "AnyX"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "AnyObject"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "AnyGeneration"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "AnyModel"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "AnyTask"
-    }
-  ],
+  "items": [],
   "metadata": {
-    "last_updated": "2026-08-19T01:58:55.238Z",
+    "last_updated": "2026-08-19T12:06:19.376Z",
     "original_repository": "VainF/Awesome-Anything",
+    "original_repository_id": 625876539,
     "original_repository_sha": "bb2b443430347d74d2a45daa9313f26863eebe49",
     "enhanced_repository": "enhansome/enhansome-Awesome-Anything",
     "enhanced_repository_description": null,
