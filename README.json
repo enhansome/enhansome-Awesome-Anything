@@ -1,7 +1,914 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "segment-anything",
+          "description": "Segment Anything Alexander Kirillov, Eric Mintun, Nikhila Ravi, Hanzi Mao, Chloe Rolland, Laura Gustafson, Tete Xiao, Spencer Whitehead, Alex Berg, Wan-Yen Lo, Piotr Dollar, Ross Girshick > Meta Research > Preprint'23 [Segment Anything (Project)] [Github] [Page] [Demo]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 618058471,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-09-18T17:46:55Z",
+            "owner": "facebookresearch",
+            "repo": "segment-anything",
+            "stars": 54754
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ov-seg",
+          "description": "OVSeg: Open-Vocabulary Semantic Segmentation with Mask-adapted CLIP Feng Liang, Bichen Wu, Xiaoliang Dai, Kunpeng Li, Yinan Zhao, Hang Zhang, Peizhao Zhang, Peter Vajda, Diana Marculescu > Meta Research > Preprint'23 [OVSeg (Project)] [Github] [Page]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 560717911,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-10-17T03:32:27Z",
+            "owner": "facebookresearch",
+            "repo": "ov-seg",
+            "stars": 758
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "seg_every_thing",
+          "description": "Learning to Segment Every Thing Ronghang Hu, Piotr Dollar, Kaiming He, Trevor Darrell, Ross Girshick > UC Berkeley, FAIR > CVPR'18 [seg_every_thing (Project)] [Github] [Page]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 131351527,
+            "language": "Python",
+            "last_commit": "2018-04-28T07:02:48Z",
+            "owner": "ronghanghu",
+            "repo": "seg_every_thing",
+            "stars": 423
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Grounded-Segment-Anything",
+          "description": "Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection Shilong Liu and Zhaoyang Zeng and Tianhe Ren and Feng Li and Hao Zhang and Jie Yang and Chunyuan Li and Jianwei Yang and Hang Su and Jun Zhu and Lei Zhang > IDEA-Research > Preprint'23 [Grounded-SAM, GroundingDINO (Project)] [Github] [Demo]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 624249899,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-09-05T06:07:32Z",
+            "owner": "IDEA-Research",
+            "repo": "Grounded-Segment-Anything",
+            "stars": 17709
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Painter",
+          "description": "SegGPT: Segmenting Everything In Context Xinlong Wang, Xiaosong Zhang, Yue Cao, Wen Wang, Chunhua Shen, Tiejun Huang > BAAI-Vision > Preprint'23 [SegGPT (Project)] [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 574615385,
+            "language": "Python",
+            "last_commit": "2024-12-06T02:39:02Z",
+            "owner": "baaivision",
+            "repo": "Painter",
+            "stars": 2593
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "segment-anything-video",
+          "description": "segment-anything-video (Project) Kadir Nar [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 624461258,
+            "language": "Python",
+            "last_commit": "2026-08-18T20:23:16Z",
+            "owner": "kadirnar",
+            "repo": "segment-anything-video",
+            "stars": 983
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "segment-any-moving",
+          "description": "Towards Segmenting Anything That Moves Achal Dave, Pavel Tokmakov, Deva Ramanan > ICCV'19 Workshop [segment-any-moving (Project)] [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 199077972,
+            "language": "Python",
+            "last_commit": "2019-12-22T20:24:03Z",
+            "owner": "achalddave",
+            "repo": "segment-any-moving",
+            "stars": 108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Semantic-Segment-Anything",
+          "description": "Semantic Segment Anything Jiaqi Chen, Zeyu Yang, Li Zhang [Semantic-Segment-Anything (Project)] [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 625415628,
+            "language": "Python",
+            "last_commit": "2023-06-07T11:54:19Z",
+            "owner": "fudan-zvg",
+            "repo": "Semantic-Segment-Anything",
+            "stars": 2301
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grounded-segment-any-parts",
+          "description": "Grounded Segment Anything: From Objects to Parts (Project) Peize Sun and Shoufa Chen [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 625463757,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-05-19T01:31:05Z",
+            "owner": "Saiyan-World",
+            "repo": "grounded-segment-any-parts",
+            "stars": 417
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Segment-Any-Anomaly",
+          "description": "GroundedSAM-zero-shot-anomaly-detection (Project) Yunkang Cao [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 625767114,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-02-22T04:57:10Z",
+            "owner": "caoyunkang",
+            "repo": "Segment-Any-Anomaly",
+            "stars": 844
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "salt",
+          "description": "Segment Anything Labelling Tool (SALT) (Project) Anurag Ghosh",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 625060819,
+            "language": "Python",
+            "last_commit": "2024-02-19T16:49:54Z",
+            "owner": "anuragxel",
+            "repo": "salt",
+            "stars": 1048
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Github",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 625767114,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-02-22T04:57:10Z",
+            "owner": "caoyunkang",
+            "repo": "Segment-Any-Anomaly",
+            "stars": 844
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Prompt-Segment-Anything",
+          "description": "Prompt-Segment-Anything (Project) Rockey [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 625729642,
+            "language": "Python",
+            "last_commit": "2023-04-14T11:09:44Z",
+            "owner": "RockeyCoss",
+            "repo": "Prompt-Segment-Anything",
+            "stars": 316
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sam-mmrotate",
+          "description": "SAM-RBox (Project) Qingyun Li [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 625075880,
+            "language": "Python",
+            "last_commit": "2023-07-31T13:46:17Z",
+            "owner": "VisionXLab",
+            "repo": "sam-mmrotate",
+            "stars": 199
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VISAM",
+          "description": "VISAM (Project) Feng Yan, Weixin Luo, Yujie Zhong, Yiyang Gan, Lin Ma [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 625746597,
+            "language": "Python",
+            "last_commit": "2023-05-29T07:30:03Z",
+            "owner": "BingfengYan",
+            "repo": "VISAM",
+            "stars": 158
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "segment-anything-eo",
+          "description": "Segment Anything EO tools: Earth observation tools for Meta AI Segment Anything (Project) Aliaksandr Hancharenka, Alexander Chichigin [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 625358519,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-02-05T18:01:12Z",
+            "owner": "aliaksandr960",
+            "repo": "segment-anything-eo",
+            "stars": 446
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "napari-segment-anything",
+          "description": "napari-segment-anything: Segment Anything Model (SAM) native Qt UI (Project) Jordão Bragantini, Kyle I S Harrington, Ajinkya Kulkarni [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 624161149,
+            "language": "Python",
+            "last_commit": "2024-08-29T13:36:31Z",
+            "owner": "royerlab",
+            "repo": "napari-segment-anything",
+            "stars": 212
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SAM-Medical-Imaging",
+          "description": "SAM-Medical-Imaging: Segment Anything Model (SAM) native Qt UI (Project) Jordão Bragantini, Kyle I S Harrington, Ajinkya Kulkarni [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 624966700,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-04-14T16:17:50Z",
+            "owner": "amine0110",
+            "repo": "SAM-Medical-Imaging",
+            "stars": 119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OCR-SAM",
+          "description": "OCR-SAM: Combining MMOCR with Segment Anything & Stable Diffusion. (Project) Zhenhua Yang, Qing Jiang [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 625402032,
+            "language": "Python",
+            "last_commit": "2024-01-30T03:59:45Z",
+            "owner": "yeungchenwa",
+            "repo": "OCR-SAM",
+            "stars": 590
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "segment-anything-u-specify",
+          "description": "segment-anything-u-specify: using sam+clip to segment any objs u specify with text prompts. (Project) MaybeShewill-CV [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 625938966,
+            "language": "Python",
+            "last_commit": "2023-07-04T02:42:42Z",
+            "owner": "MaybeShewill-CV",
+            "repo": "segment-anything-u-specify",
+            "stars": 182
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Segment-Everything-Everywhere-All-At-Once",
+          "description": "Segment Everything Everywhere All at Once Xueyan Zou, Jianwei Yang, Hao Zhang, Feng Li, Linjie Li, Jianfeng Gao, Yong Jae Lee [SEEM (Project)] [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 626753204,
+            "language": "Python",
+            "last_commit": "2024-08-19T08:01:54Z",
+            "owner": "UX-Decoder",
+            "repo": "Segment-Everything-Everywhere-All-At-Once",
+            "stars": 4795
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SegDrawer",
+          "description": "SegDrawer: Simple static web-based mask drawer (Project) Harry [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 625292175,
+            "language": "Python",
+            "last_commit": "2024-08-01T02:01:51Z",
+            "owner": "lujiazho",
+            "repo": "SegDrawer",
+            "stars": 397
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "magic-copy",
+          "description": "Magic Copy: a Chrome extension (Project) Harry [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 624716259,
+            "language": "TypeScript",
+            "last_commit": "2024-05-06T20:41:13Z",
+            "owner": "kevmo314",
+            "repo": "magic-copy",
+            "stars": 2459
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Track-Anything",
+          "description": "Track Anything: Segment Anything Meets Videos Jinyu Yang, Mingqi Gao, Zhe Li, Shang Gao, Fangjing Wang, Feng Zheng [Track-Anything (Project)] [Github] [Demo]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 626676185,
+            "language": "Python",
+            "last_commit": "2025-12-13T11:02:33Z",
+            "owner": "gaomingqi",
+            "repo": "Track-Anything",
+            "stars": 6993
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Count-Anything",
+          "description": "Count Anything (Project) Liqi Yan [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 626941135,
+            "language": "Python",
+            "last_commit": "2023-04-22T06:26:56Z",
+            "owner": "ylqi",
+            "repo": "Count-Anything",
+            "stars": 183
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Segment-and-Track-Anything",
+          "description": "Segment-and-Track-Anything (Project) Zongxin Yang [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 628630832,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-07-03T21:59:37Z",
+            "owner": "z-x-yang",
+            "repo": "Segment-and-Track-Anything",
+            "stars": 3134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pose-for-Everything",
+          "description": "Pose for Everything: Towards Category-Agnostic Pose Estimation Lumin Xu*, Sheng Jin*, Wang Zeng, Wentao Liu, Chen Qian, Wanli Ouyang, Ping Luo, Xiaogang Wang > CUHK, SenseTime > ECCV'22 Oral [Pose-for-Everything (Project)] [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 514615979,
+            "language": "Python",
+            "last_commit": "2024-05-23T03:31:46Z",
+            "owner": "luminxu",
+            "repo": "Pose-for-Everything",
+            "stars": 222
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RelateAnything",
+          "description": "Relate Anything Model (Project) Zujin Guo*, Bo Li*, Jingkang Yang*, Zijian Zhou*, Ziwei Liu > MMLab@NTU > VisCom Lab, KCL/TongJi Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 627239988,
+            "language": "Python",
+            "last_commit": "2023-07-04T17:00:53Z",
+            "owner": "EvolvingLMMs-Lab",
+            "repo": "RelateAnything",
+            "stars": 471
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SegmentAnyRGBD",
+          "description": "SegmentAnyRGBD (Project) Jun Cen, Yizheng Wu, Xingyi Li, Jingkang Yang, Yixuan Pei, Lingdong Kong > Visual Intelligence Lab@HKUST, > HUST, > MMLab@NTU, > Smiles Lab@XJTU, > NUS Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 630732816,
+            "language": "Python",
+            "last_commit": "2023-05-24T01:48:43Z",
+            "owner": "Jun-CEN",
+            "repo": "SegmentAnyRGBD",
+            "stars": 866
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FoodSAM",
+          "description": "FoodSAM (Project) Xing Lan, Jiayi Lyu, Hanyu Jiang, Kun Dong, Zehai Niu, Yi Zhang, Jian Xue > UCAS [Github] [Page] [ArXiv]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 676947926,
+            "language": "Python",
+            "last_commit": "2024-01-24T10:06:55Z",
+            "owner": "jamesjg",
+            "repo": "FoodSAM",
+            "stars": 185
+          }
+        }
+      ],
+      "title": "AnyObject"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "stable-diffusion",
+          "description": "High-Resolution Image Synthesis with Latent Diffusion Models Robin Rombach and Andreas Blattmann and Dominik Lorenz and Patrick Esser and Björn Ommer > LMU München, Runway ML > CVPR'22 [Stable-Diffusion (Project)] [Github] [Page] [Demo]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 523379232,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-06-18T01:53:49Z",
+            "owner": "CompVis",
+            "repo": "stable-diffusion",
+            "stars": 73343
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ControlNet",
+          "description": "Adding Conditional Control to Text-to-Image Diffusion Models Lvmin Zhang, Maneesh Agrawala > Stanford University > Preprint'23 [ControlNet (Project)] [Github] [Demo]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 595893961,
+            "language": "Python",
+            "last_commit": "2024-02-25T09:49:39Z",
+            "owner": "lllyasviel",
+            "repo": "ControlNet",
+            "stars": 34078
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Inpaint-Anything",
+          "description": "Inpaint-Anything: Segment Anything Meets Image Inpainting (Project) Tao Yu [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 625478728,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-22T04:47:40Z",
+            "owner": "geekyutao",
+            "repo": "Inpaint-Anything",
+            "stars": 7699
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IEA",
+          "description": "IEA: Image Editing Anything (Project) Zhengcong Fei [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 624755349,
+            "language": "Python",
+            "last_commit": "2023-04-11T10:24:26Z",
+            "owner": "feizc",
+            "repo": "IEA",
+            "stars": 114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EditAnything",
+          "description": "EditAnything (Project) Shanghua Gao, Pan Zhou [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 625483393,
+            "language": "Python",
+            "last_commit": "2025-02-23T04:58:34Z",
+            "owner": "sail-sg",
+            "repo": "EditAnything",
+            "stars": 3422
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sd-webui-segment-anything",
+          "description": "Segment Anything for Stable Diffusion Webui (Project) Chengsong Zhang [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 625961301,
+            "language": "Python",
+            "last_commit": "2024-04-30T08:24:46Z",
+            "owner": "continue-revolution",
+            "repo": "sd-webui-segment-anything",
+            "stars": 3499
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "segment-anything-with-clip",
+          "description": "Segment Anything with Clip (Project) Jinwoo Park [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 624492945,
+            "language": "Python",
+            "last_commit": "2024-02-19T14:20:58Z",
+            "owner": "Curt-Park",
+            "repo": "segment-anything-with-clip",
+            "stars": 350
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ShowAnything",
+          "description": "ShowAnything: Edit and Generate Anything In Image and Video (Project) Showlab, NUS Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 626329990,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-08-01T07:08:28Z",
+            "owner": "showlab",
+            "repo": "ShowAnything",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Transfer-Any-Style",
+          "description": "Transfer-Any-Style: About An interactive demo based on Segment-Anything for style transfer (Project) LV-Lab, NUS Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 628221304,
+            "language": "Python",
+            "last_commit": "2023-04-24T02:18:55Z",
+            "owner": "Huage001",
+            "repo": "Transfer-Any-Style",
+            "stars": 101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Anything2Image",
+          "description": "Anything To Image: Generate image from anything with ImageBind and Stable Diffusion (Project) Zeqiang-Lai Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 641330654,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-08-03T03:44:22Z",
+            "owner": "Zeqiang-Lai",
+            "repo": "Anything2Image",
+            "stars": 201
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "InterpAny-Clearer",
+          "description": "Clearer Frames, Anytime: Resolving Velocity Ambiguity in Video Frame Interpolation Zhihang Zhong, Gurunandan Krishnan, Xiao Sun, Yu Qiao, Sizhuo Ma, Jian Wang > Shanghai AI Laboratory, Snap Inc. > Preprint'23 [Github] [Page] [ArXiv]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 710830571,
+            "language": "Python",
+            "last_commit": "2026-06-02T13:22:14Z",
+            "owner": "zzh-tech",
+            "repo": "InterpAny-Clearer",
+            "stars": 295
+          }
+        }
+      ],
+      "title": "AnyGeneration"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OpenIns3D",
+          "description": "OpenIns3D: Snap and Lookup for 3D Open-vocabulary Instance Segmentation Zhening Huang, Xiaoyang Wu, Xi Chen, Hengshuang Zhao, Lei Zhu, Joan Lasenby > Cambridge, HKU, HKUST [OpenIns3D] [Github] [Page]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 686811735,
+            "language": "Python",
+            "last_commit": "2024-10-19T00:40:59Z",
+            "owner": "Pointcept",
+            "repo": "OpenIns3D",
+            "stars": 209
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Anything-3D",
+          "description": "Anything-3D: Segment-Anything + 3D, Let's lift the anything to 3D (Project) LV-Lab, NUS Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 627352072,
+            "language": "Python",
+            "last_commit": "2023-06-12T09:40:03Z",
+            "owner": "Anything-of-anything",
+            "repo": "Anything-3D",
+            "stars": 1633
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SAM-3D-Selector",
+          "description": "SAM 3D Selector: Utilizing segment-anything to help the region selection of 3D point cloud or mesh. (Project) Nexuslrf Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 627752679,
+            "language": "Python",
+            "last_commit": "2023-04-14T06:14:25Z",
+            "owner": "nexuslrf",
+            "repo": "SAM-3D-Selector",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "3D-Box-Segment-Anything",
+          "description": "3D-Box via Segment Anything. (Project) dvlab-research [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 627807779,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-04-18T02:39:02Z",
+            "owner": "JIA-Lab-research",
+            "repo": "3D-Box-Segment-Anything",
+            "stars": 564
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SegmentAnything3D",
+          "description": "SAM3D: Segment Anything in 3D Scenes Yunhan Yang, Xiaoyang Wu, Tong He, Hengshuang Zhao, Xihui Liu > Shanghai AI Laboratory, HKU [SAM3D: Segment Anything in 3D Scenes (Project)] [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 628918235,
+            "language": "Python",
+            "last_commit": "2024-04-21T14:57:50Z",
+            "owner": "Pointcept",
+            "repo": "SegmentAnything3D",
+            "stars": 1384
+          }
+        }
+      ],
+      "title": "Any3D"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Torch-Pruning",
+          "description": "DepGraph: Towards Any Structural Pruning Gongfan Fang, Xinyin Ma, Mingli Song, Michael Bi Mi, Xinchao Wang > Learning and Vision Lab @ NUS > CVPR'23 [Torch-Pruning (Project)] [Github] [Demo]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 228203350,
+            "language": "Python",
+            "last_commit": "2025-09-07T17:25:20Z",
+            "owner": "VainF",
+            "repo": "Torch-Pruning",
+            "stars": 3347
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MQBench",
+          "description": "MQBench: Towards Reproducible and Deployable Model Quantization Benchmark Yuhang Li and Mingzhu Shen and Jian Ma and Yan Ren and Mingxin Zhao and Qi Zhang and Ruihao Gong and Fengwei Yu and Junjie Yan > SenseTime Research > NeurIPS'21 [MQBench (Project)] [Github] [Page]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 397953975,
+            "language": "Python",
+            "last_commit": "2025-04-20T15:29:16Z",
+            "owner": "ModelTC",
+            "repo": "MQBench",
+            "stars": 880
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "only_train_once_personal_footprint",
+          "description": "OTOv2: Automatic, Generic, User-Friendly Tianyi Chen, Luming Liang, Tianyu Ding, Ilya Zharkov > Microsoft > ICLR'23 [Only Train Once (Project)] [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 418743913,
+            "language": "Python",
+            "last_commit": "2024-09-16T03:24:41Z",
+            "owner": "tianyic",
+            "repo": "only_train_once_personal_footprint",
+            "stars": 311
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeRy",
+          "description": "Deep Model Reassembly Xingyi Yang, Daquan Zhou, Songhua Liu, Jingwen Ye, Xinchao Wang LV Lab, NUS > NeurIPS'22 [Deep Model Reassembly (Project)] [Github] [Page]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 496473059,
+            "language": "Python",
+            "last_commit": "2023-08-29T08:02:03Z",
+            "owner": "Adamdad",
+            "repo": "DeRy",
+            "stars": 256
+          }
+        }
+      ],
+      "title": "AnyModel"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "JARVIS",
+          "description": "HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace Yongliang Shen, Kaitao Song, Xu Tan, Dongsheng Li, Weiming Lu, Yueting Zhuang > Zhejiang University, MSRA Preprint'23 [Jarvis (Project)] [Github] [Demo]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 621118467,
+            "language": "Python",
+            "last_commit": "2025-07-29T13:44:13Z",
+            "owner": "microsoft",
+            "repo": "JARVIS",
+            "stars": 25204
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TaskMatrix.AI: Completing Tasks by Connecting Foundation Models with Millions of APIs",
+          "description": "Yaobo Liang, Chenfei Wu, Ting Song, Wenshan Wu, Yan Xia, Yu Liu, Yang Ou, Shuai Lu, Lei Ji, Shaoguang Mao, Yun Wang, Linjun Shou, Ming Gong, Nan Duan > Microsoft > > Preprint'23 [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 608555244,
+            "language": "Python",
+            "last_commit": "2024-01-06T02:41:20Z",
+            "owner": "chenfei-wu",
+            "repo": "TaskMatrix",
+            "stars": 34006
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "X-Decoder",
+          "description": "Generalized Decoding for Pixel, Image and Language Xueyan Zou, Zi-Yi Dou, Jianwei Yang, Zhe Gan, Linjie Li, Chunyuan Li, Xiyang Dai, Harkirat Behl, Jianfeng Wang, Lu Yuan, Nanyun Peng, Lijuan Wang, Yong Jae Lee, Jianfeng Gao > Microsoft > CVPR'23 [X-Decoder (Project)]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 571382750,
+            "language": "Python",
+            "last_commit": "2023-10-05T04:07:00Z",
+            "owner": "microsoft",
+            "repo": "X-Decoder",
+            "stars": 1345
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Github",
+          "description": "] [Page] [Demo]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 571382750,
+            "language": "Python",
+            "last_commit": "2023-10-05T04:07:00Z",
+            "owner": "microsoft",
+            "repo": "X-Decoder",
+            "stars": 1345
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pretrained-IPT",
+          "description": "Pre-Trained Image Processing Transformer Chen, Hanting and Wang, Yunhe and Guo, Tianyu and Xu, Chang and Deng, Yiping and Liu, Zhenhua and Ma, Siwei and Xu, Chunjing and Xu, Chao and Gao, Wen > Huawei-Noah > CVPR'21 [Pretrained-IPT (Project)] [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 357448742,
+            "language": "Python",
+            "last_commit": "2022-11-14T06:53:37Z",
+            "owner": "huawei-noah",
+            "repo": "Pretrained-IPT",
+            "stars": 470
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenAGI",
+          "description": "OpenAGI: When LLM Meets Domain Experts Yingqiang Ge, Wenyue Hua, Jianchao Ji, Juntao Tan, Shuyuan Xu, Yongfeng Zhang > Rutgers University > Preprint'23 [OpenAGI (Project)] Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 625084397,
+            "language": "Python",
+            "last_commit": "2024-11-28T15:48:29Z",
+            "owner": "agiresearch",
+            "repo": "OpenAGI",
+            "stars": 2283
+          }
+        }
+      ],
+      "title": "AnyTask"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Caption-Anything",
+          "description": "Caption Anything: Interactive Image Description with Diverse Multimodal Controls Teng Wang, Jinrui Zhang, Junjie Fei, Hao Zheng, Yunlong Tang, Zhe Li, Mingqi Gao, Shanshan Zhao > SUSTech VIP Lab > Preprint'23 Caption Anything (Project) [Github] [Demo]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 624860070,
+            "language": "Python",
+            "last_commit": "2023-08-29T05:26:45Z",
+            "owner": "ttengwang",
+            "repo": "Caption-Anything",
+            "stars": 1777
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Image2Paragraph",
+          "description": "Image2Paragraph:Transform Image into Unique Paragraph (Project) Jinpeng Wang Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 627059657,
+            "language": "Python",
+            "last_commit": "2023-04-28T06:41:05Z",
+            "owner": "showlab",
+            "repo": "Image2Paragraph",
+            "stars": 820
+          }
+        }
+      ],
+      "title": "AnyX"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T02:06:10.768Z",
+    "last_updated": "2026-08-24T14:06:29.846Z",
     "original_repository": "VainF/Awesome-Anything",
     "original_repository_id": 625876539,
     "original_repository_sha": "bb2b443430347d74d2a45daa9313f26863eebe49",
