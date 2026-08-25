@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "segment-anything",
-          "description": "Segment Anything Alexander Kirillov, Eric Mintun, Nikhila Ravi, Hanzi Mao, Chloe Rolland, Laura Gustafson, Tete Xiao, Spencer Whitehead, Alex Berg, Wan-Yen Lo, Piotr Dollar, Ross Girshick > Meta Research > Preprint'23 [Segment Anything (Project)] [Github] [Page] [Demo]",
+          "description": "Segment Anything Alexander Kirillov, Eric Mintun, Nikhila Ravi, Hanzi Mao, Chloe Rolland, Laura Gustafson, Tete Xiao, Spencer Whitehead, Alex Berg, Wan-Yen Lo, Piotr Dollar, Ross Girshick > Meta Research > Preprint'23 [Segment Anything (Project)]  [Github] [Page] [Demo]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -15,13 +15,13 @@
             "last_commit": "2024-09-18T17:46:55Z",
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 54755
+            "stars": 54754
           }
         },
         {
           "node_type": "item",
           "title": "ov-seg",
-          "description": "OVSeg: Open-Vocabulary Semantic Segmentation with Mask-adapted CLIP Feng Liang, Bichen Wu, Xiaoliang Dai, Kunpeng Li, Yinan Zhao, Hang Zhang, Peizhao Zhang, Peter Vajda, Diana Marculescu > Meta Research > Preprint'23 [OVSeg (Project)] [Github] [Page]",
+          "description": "OVSeg: Open-Vocabulary Semantic Segmentation with Mask-adapted CLIP Feng Liang, Bichen Wu, Xiaoliang Dai, Kunpeng Li, Yinan Zhao, Hang Zhang, Peizhao Zhang, Peter Vajda, Diana Marculescu > Meta Research > Preprint'23 [OVSeg (Project)]  [Github] [Page]",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -36,7 +36,7 @@
         {
           "node_type": "item",
           "title": "seg_every_thing",
-          "description": "Learning to Segment Every Thing Ronghang Hu, Piotr Dollar, Kaiming He, Trevor Darrell, Ross Girshick > UC Berkeley, FAIR > CVPR'18 [seg_every_thing (Project)] [Github] [Page]",
+          "description": "Learning to Segment Every Thing Ronghang Hu, Piotr Dollar, Kaiming He, Trevor Darrell, Ross Girshick > UC Berkeley, FAIR > CVPR'18 [seg_every_thing (Project)]  [Github] [Page]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -51,7 +51,7 @@
         {
           "node_type": "item",
           "title": "Grounded-Segment-Anything",
-          "description": "Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection Shilong Liu and Zhaoyang Zeng and Tianhe Ren and Feng Li and Hao Zhang and Jie Yang and Chunyuan Li and Jianwei Yang and Hang Su and Jun Zhu and Lei Zhang > IDEA-Research > Preprint'23 [Grounded-SAM, GroundingDINO (Project)] [Github] [Demo]",
+          "description": "Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection Shilong Liu and Zhaoyang Zeng and Tianhe Ren and Feng Li and Hao Zhang and Jie Yang and Chunyuan Li and Jianwei Yang and Hang Su and Jun Zhu and Lei Zhang > IDEA-Research > Preprint'23 [Grounded-SAM, GroundingDINO (Project)]  [Github] [Demo]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -60,13 +60,13 @@
             "last_commit": "2024-09-05T06:07:32Z",
             "owner": "IDEA-Research",
             "repo": "Grounded-Segment-Anything",
-            "stars": 17707
+            "stars": 17708
           }
         },
         {
           "node_type": "item",
           "title": "Painter",
-          "description": "SegGPT: Segmenting Everything In Context Xinlong Wang, Xiaosong Zhang, Yue Cao, Wen Wang, Chunhua Shen, Tiejun Huang > BAAI-Vision > Preprint'23 [SegGPT (Project)] [Github]",
+          "description": "SegGPT: Segmenting Everything In Context Xinlong Wang, Xiaosong Zhang, Yue Cao, Wen Wang, Chunhua Shen, Tiejun Huang > BAAI-Vision > Preprint'23 [SegGPT (Project)]  [Github]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -81,7 +81,7 @@
         {
           "node_type": "item",
           "title": "segment-anything-video",
-          "description": "segment-anything-video (Project) Kadir Nar [Github]",
+          "description": "segment-anything-video (Project) Kadir Nar  [Github]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -96,7 +96,7 @@
         {
           "node_type": "item",
           "title": "segment-any-moving",
-          "description": "Towards Segmenting Anything That Moves Achal Dave, Pavel Tokmakov, Deva Ramanan > ICCV'19 Workshop [segment-any-moving (Project)] [Github]",
+          "description": "Towards Segmenting Anything That Moves Achal Dave, Pavel Tokmakov, Deva Ramanan > ICCV'19 Workshop [segment-any-moving (Project)]  [Github]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -111,7 +111,7 @@
         {
           "node_type": "item",
           "title": "Semantic-Segment-Anything",
-          "description": "Semantic Segment Anything Jiaqi Chen, Zeyu Yang, Li Zhang [Semantic-Segment-Anything (Project)] [Github]",
+          "description": "Semantic Segment Anything Jiaqi Chen, Zeyu Yang, Li Zhang [Semantic-Segment-Anything (Project)]  [Github]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -126,7 +126,7 @@
         {
           "node_type": "item",
           "title": "grounded-segment-any-parts",
-          "description": "Grounded Segment Anything: From Objects to Parts (Project) Peize Sun and Shoufa Chen [Github]",
+          "description": "Grounded Segment Anything: From Objects to Parts (Project) Peize Sun and Shoufa Chen  [Github]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -141,7 +141,7 @@
         {
           "node_type": "item",
           "title": "Segment-Any-Anomaly",
-          "description": "GroundedSAM-zero-shot-anomaly-detection (Project) Yunkang Cao [Github]",
+          "description": "GroundedSAM-zero-shot-anomaly-detection (Project) Yunkang Cao  [Github]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -170,7 +170,7 @@
         },
         {
           "node_type": "item",
-          "title": "[Github",
+          "title": "caoyunkang/Segment-Any-Anomaly",
           "description": "]",
           "children": [],
           "repo_info": {
@@ -186,7 +186,7 @@
         {
           "node_type": "item",
           "title": "Prompt-Segment-Anything",
-          "description": "Prompt-Segment-Anything (Project) Rockey [Github]",
+          "description": "Prompt-Segment-Anything (Project) Rockey  [Github]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -201,7 +201,7 @@
         {
           "node_type": "item",
           "title": "sam-mmrotate",
-          "description": "SAM-RBox (Project) Qingyun Li [Github]",
+          "description": "SAM-RBox (Project) Qingyun Li  [Github]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -216,7 +216,7 @@
         {
           "node_type": "item",
           "title": "VISAM",
-          "description": "VISAM (Project) Feng Yan, Weixin Luo, Yujie Zhong, Yiyang Gan, Lin Ma [Github]",
+          "description": "VISAM (Project) Feng Yan, Weixin Luo, Yujie Zhong, Yiyang Gan, Lin Ma  [Github]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -231,7 +231,7 @@
         {
           "node_type": "item",
           "title": "segment-anything-eo",
-          "description": "Segment Anything EO tools: Earth observation tools for Meta AI Segment Anything (Project) Aliaksandr Hancharenka, Alexander Chichigin [Github]",
+          "description": "Segment Anything EO tools: Earth observation tools for Meta AI Segment Anything (Project) Aliaksandr Hancharenka, Alexander Chichigin  [Github]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -246,7 +246,7 @@
         {
           "node_type": "item",
           "title": "napari-segment-anything",
-          "description": "napari-segment-anything: Segment Anything Model (SAM) native Qt UI (Project) Jordão Bragantini, Kyle I S Harrington, Ajinkya Kulkarni [Github]",
+          "description": "napari-segment-anything: Segment Anything Model (SAM) native Qt UI (Project) Jordão Bragantini, Kyle I S Harrington, Ajinkya Kulkarni  [Github]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -261,7 +261,7 @@
         {
           "node_type": "item",
           "title": "SAM-Medical-Imaging",
-          "description": "SAM-Medical-Imaging: Segment Anything Model (SAM) native Qt UI (Project) Jordão Bragantini, Kyle I S Harrington, Ajinkya Kulkarni [Github]",
+          "description": "SAM-Medical-Imaging: Segment Anything Model (SAM) native Qt UI (Project) Jordão Bragantini, Kyle I S Harrington, Ajinkya Kulkarni  [Github]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -276,7 +276,7 @@
         {
           "node_type": "item",
           "title": "OCR-SAM",
-          "description": "OCR-SAM: Combining MMOCR with Segment Anything & Stable Diffusion. (Project) Zhenhua Yang, Qing Jiang [Github]",
+          "description": "OCR-SAM: Combining MMOCR with Segment Anything & Stable Diffusion. (Project) Zhenhua Yang, Qing Jiang  [Github]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -291,7 +291,7 @@
         {
           "node_type": "item",
           "title": "segment-anything-u-specify",
-          "description": "segment-anything-u-specify: using sam+clip to segment any objs u specify with text prompts. (Project) MaybeShewill-CV [Github]",
+          "description": "segment-anything-u-specify: using sam+clip to segment any objs u specify with text prompts. (Project) MaybeShewill-CV  [Github]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -306,7 +306,7 @@
         {
           "node_type": "item",
           "title": "Segment-Everything-Everywhere-All-At-Once",
-          "description": "Segment Everything Everywhere All at Once Xueyan Zou, Jianwei Yang, Hao Zhang, Feng Li, Linjie Li, Jianfeng Gao, Yong Jae Lee [SEEM (Project)] [Github]",
+          "description": "Segment Everything Everywhere All at Once Xueyan Zou, Jianwei Yang, Hao Zhang, Feng Li, Linjie Li, Jianfeng Gao, Yong Jae Lee [SEEM (Project)]  [Github]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -321,7 +321,7 @@
         {
           "node_type": "item",
           "title": "SegDrawer",
-          "description": "SegDrawer: Simple static web-based mask drawer (Project) Harry [Github]",
+          "description": "SegDrawer: Simple static web-based mask drawer (Project) Harry  [Github]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -336,7 +336,7 @@
         {
           "node_type": "item",
           "title": "magic-copy",
-          "description": "Magic Copy: a Chrome extension (Project) Harry [Github]",
+          "description": "Magic Copy: a Chrome extension (Project) Harry  [Github]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -351,7 +351,7 @@
         {
           "node_type": "item",
           "title": "Track-Anything",
-          "description": "Track Anything: Segment Anything Meets Videos Jinyu Yang, Mingqi Gao, Zhe Li, Shang Gao, Fangjing Wang, Feng Zheng [Track-Anything (Project)] [Github] [Demo]",
+          "description": "Track Anything: Segment Anything Meets Videos Jinyu Yang, Mingqi Gao, Zhe Li, Shang Gao, Fangjing Wang, Feng Zheng [Track-Anything (Project)]  [Github] [Demo]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -366,7 +366,7 @@
         {
           "node_type": "item",
           "title": "Count-Anything",
-          "description": "Count Anything (Project) Liqi Yan [Github]",
+          "description": "Count Anything (Project) Liqi Yan  [Github]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -381,7 +381,7 @@
         {
           "node_type": "item",
           "title": "Segment-and-Track-Anything",
-          "description": "Segment-and-Track-Anything (Project) Zongxin Yang [Github]",
+          "description": "Segment-and-Track-Anything (Project) Zongxin Yang  [Github]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -396,7 +396,7 @@
         {
           "node_type": "item",
           "title": "Pose-for-Everything",
-          "description": "Pose for Everything: Towards Category-Agnostic Pose Estimation Lumin Xu*, Sheng Jin*, Wang Zeng, Wentao Liu, Chen Qian, Wanli Ouyang, Ping Luo, Xiaogang Wang > CUHK, SenseTime > ECCV'22 Oral [Pose-for-Everything (Project)] [Github]",
+          "description": "Pose for Everything: Towards Category-Agnostic Pose Estimation Lumin Xu*, Sheng Jin*, Wang Zeng, Wentao Liu, Chen Qian, Wanli Ouyang, Ping Luo, Xiaogang Wang > CUHK, SenseTime > ECCV'22 Oral [Pose-for-Everything (Project)]  [Github]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -411,7 +411,7 @@
         {
           "node_type": "item",
           "title": "RelateAnything",
-          "description": "Relate Anything Model (Project) Zujin Guo*, Bo Li*, Jingkang Yang*, Zijian Zhou*, Ziwei Liu > MMLab@NTU > VisCom Lab, KCL/TongJi Github",
+          "description": "Relate Anything Model (Project) Zujin Guo*, Bo Li*, Jingkang Yang*, Zijian Zhou*, Ziwei Liu > MMLab@NTU > VisCom Lab, KCL/TongJi  Github",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -426,7 +426,7 @@
         {
           "node_type": "item",
           "title": "SegmentAnyRGBD",
-          "description": "SegmentAnyRGBD (Project) Jun Cen, Yizheng Wu, Xingyi Li, Jingkang Yang, Yixuan Pei, Lingdong Kong > Visual Intelligence Lab@HKUST, > HUST, > MMLab@NTU, > Smiles Lab@XJTU, > NUS Github",
+          "description": "SegmentAnyRGBD (Project) Jun Cen, Yizheng Wu, Xingyi Li, Jingkang Yang, Yixuan Pei, Lingdong Kong > Visual Intelligence Lab@HKUST, > HUST, > MMLab@NTU, > Smiles Lab@XJTU, > NUS  Github",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -441,7 +441,7 @@
         {
           "node_type": "item",
           "title": "FoodSAM",
-          "description": "FoodSAM (Project) Xing Lan, Jiayi Lyu, Hanyu Jiang, Kun Dong, Zehai Niu, Yi Zhang, Jian Xue > UCAS [Github] [Page] [ArXiv]",
+          "description": "FoodSAM (Project) Xing Lan, Jiayi Lyu, Hanyu Jiang, Kun Dong, Zehai Niu, Yi Zhang, Jian Xue > UCAS  [Github] [Page] [ArXiv]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -462,7 +462,7 @@
         {
           "node_type": "item",
           "title": "stable-diffusion",
-          "description": "High-Resolution Image Synthesis with Latent Diffusion Models Robin Rombach and Andreas Blattmann and Dominik Lorenz and Patrick Esser and Björn Ommer > LMU München, Runway ML > CVPR'22 [Stable-Diffusion (Project)] [Github] [Page] [Demo]",
+          "description": "High-Resolution Image Synthesis with Latent Diffusion Models Robin Rombach and Andreas Blattmann and Dominik Lorenz and Patrick Esser and Björn Ommer > LMU München, Runway ML > CVPR'22 [Stable-Diffusion (Project)]  [Github] [Page] [Demo]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -471,13 +471,13 @@
             "last_commit": "2024-06-18T01:53:49Z",
             "owner": "CompVis",
             "repo": "stable-diffusion",
-            "stars": 73344
+            "stars": 73345
           }
         },
         {
           "node_type": "item",
           "title": "ControlNet",
-          "description": "Adding Conditional Control to Text-to-Image Diffusion Models Lvmin Zhang, Maneesh Agrawala > Stanford University > Preprint'23 [ControlNet (Project)] [Github] [Demo]",
+          "description": "Adding Conditional Control to Text-to-Image Diffusion Models Lvmin Zhang, Maneesh Agrawala > Stanford University > Preprint'23 [ControlNet (Project)]  [Github] [Demo]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -492,7 +492,7 @@
         {
           "node_type": "item",
           "title": "Inpaint-Anything",
-          "description": "Inpaint-Anything: Segment Anything Meets Image Inpainting (Project) Tao Yu [Github]",
+          "description": "Inpaint-Anything: Segment Anything Meets Image Inpainting (Project) Tao Yu  [Github]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -507,7 +507,7 @@
         {
           "node_type": "item",
           "title": "IEA",
-          "description": "IEA: Image Editing Anything (Project) Zhengcong Fei [Github]",
+          "description": "IEA: Image Editing Anything (Project) Zhengcong Fei  [Github]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -522,7 +522,7 @@
         {
           "node_type": "item",
           "title": "EditAnything",
-          "description": "EditAnything (Project) Shanghua Gao, Pan Zhou [Github]",
+          "description": "EditAnything (Project) Shanghua Gao, Pan Zhou  [Github]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -537,7 +537,7 @@
         {
           "node_type": "item",
           "title": "sd-webui-segment-anything",
-          "description": "Segment Anything for Stable Diffusion Webui (Project) Chengsong Zhang [Github]",
+          "description": "Segment Anything for Stable Diffusion Webui (Project) Chengsong Zhang  [Github]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -552,7 +552,7 @@
         {
           "node_type": "item",
           "title": "segment-anything-with-clip",
-          "description": "Segment Anything with Clip (Project) Jinwoo Park [Github]",
+          "description": "Segment Anything with Clip (Project) Jinwoo Park  [Github]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -567,7 +567,7 @@
         {
           "node_type": "item",
           "title": "ShowAnything",
-          "description": "ShowAnything: Edit and Generate Anything In Image and Video (Project) Showlab, NUS Github",
+          "description": "ShowAnything: Edit and Generate Anything In Image and Video (Project) Showlab, NUS  Github",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -582,7 +582,7 @@
         {
           "node_type": "item",
           "title": "Transfer-Any-Style",
-          "description": "Transfer-Any-Style: About An interactive demo based on Segment-Anything for style transfer (Project) LV-Lab, NUS Github",
+          "description": "Transfer-Any-Style: About An interactive demo based on Segment-Anything for style transfer (Project) LV-Lab, NUS  Github",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -597,7 +597,7 @@
         {
           "node_type": "item",
           "title": "Anything2Image",
-          "description": "Anything To Image: Generate image from anything with ImageBind and Stable Diffusion (Project) Zeqiang-Lai Github",
+          "description": "Anything To Image: Generate image from anything with ImageBind and Stable Diffusion (Project) Zeqiang-Lai  Github",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -612,7 +612,7 @@
         {
           "node_type": "item",
           "title": "InterpAny-Clearer",
-          "description": "Clearer Frames, Anytime: Resolving Velocity Ambiguity in Video Frame Interpolation Zhihang Zhong, Gurunandan Krishnan, Xiao Sun, Yu Qiao, Sizhuo Ma, Jian Wang > Shanghai AI Laboratory, Snap Inc. > Preprint'23 [Github] [Page] [ArXiv]",
+          "description": "Clearer Frames, Anytime: Resolving Velocity Ambiguity in Video Frame Interpolation Zhihang Zhong, Gurunandan Krishnan, Xiao Sun, Yu Qiao, Sizhuo Ma, Jian Wang > Shanghai AI Laboratory, Snap Inc. > Preprint'23  [Github] [Page] [ArXiv]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -633,7 +633,7 @@
         {
           "node_type": "item",
           "title": "OpenIns3D",
-          "description": "OpenIns3D: Snap and Lookup for 3D Open-vocabulary Instance Segmentation Zhening Huang, Xiaoyang Wu, Xi Chen, Hengshuang Zhao, Lei Zhu, Joan Lasenby > Cambridge, HKU, HKUST [OpenIns3D] [Github] [Page]",
+          "description": "OpenIns3D: Snap and Lookup for 3D Open-vocabulary Instance Segmentation Zhening Huang, Xiaoyang Wu, Xi Chen, Hengshuang Zhao, Lei Zhu, Joan Lasenby > Cambridge, HKU, HKUST [OpenIns3D]  [Github] [Page]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -648,7 +648,7 @@
         {
           "node_type": "item",
           "title": "Anything-3D",
-          "description": "Anything-3D: Segment-Anything + 3D, Let's lift the anything to 3D (Project) LV-Lab, NUS Github",
+          "description": "Anything-3D: Segment-Anything + 3D, Let's lift the anything to 3D (Project) LV-Lab, NUS  Github",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -663,7 +663,7 @@
         {
           "node_type": "item",
           "title": "SAM-3D-Selector",
-          "description": "SAM 3D Selector: Utilizing segment-anything to help the region selection of 3D point cloud or mesh. (Project) Nexuslrf Github",
+          "description": "SAM 3D Selector: Utilizing segment-anything to help the region selection of 3D point cloud or mesh. (Project) Nexuslrf  Github",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -678,7 +678,7 @@
         {
           "node_type": "item",
           "title": "3D-Box-Segment-Anything",
-          "description": "3D-Box via Segment Anything. (Project) dvlab-research [Github]",
+          "description": "3D-Box via Segment Anything. (Project) dvlab-research  [Github]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -693,7 +693,7 @@
         {
           "node_type": "item",
           "title": "SegmentAnything3D",
-          "description": "SAM3D: Segment Anything in 3D Scenes Yunhan Yang, Xiaoyang Wu, Tong He, Hengshuang Zhao, Xihui Liu > Shanghai AI Laboratory, HKU [SAM3D: Segment Anything in 3D Scenes (Project)] [Github]",
+          "description": "SAM3D: Segment Anything in 3D Scenes Yunhan Yang, Xiaoyang Wu, Tong He, Hengshuang Zhao, Xihui Liu > Shanghai AI Laboratory, HKU [SAM3D: Segment Anything in 3D Scenes (Project)]  [Github]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -714,7 +714,7 @@
         {
           "node_type": "item",
           "title": "Torch-Pruning",
-          "description": "DepGraph: Towards Any Structural Pruning Gongfan Fang, Xinyin Ma, Mingli Song, Michael Bi Mi, Xinchao Wang > Learning and Vision Lab @ NUS > CVPR'23 [Torch-Pruning (Project)] [Github] [Demo]",
+          "description": "DepGraph: Towards Any Structural Pruning Gongfan Fang, Xinyin Ma, Mingli Song, Michael Bi Mi, Xinchao Wang > Learning and Vision Lab @ NUS > CVPR'23 [Torch-Pruning (Project)]  [Github] [Demo]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -729,7 +729,7 @@
         {
           "node_type": "item",
           "title": "MQBench",
-          "description": "MQBench: Towards Reproducible and Deployable Model Quantization Benchmark Yuhang Li and Mingzhu Shen and Jian Ma and Yan Ren and Mingxin Zhao and Qi Zhang and Ruihao Gong and Fengwei Yu and Junjie Yan > SenseTime Research > NeurIPS'21 [MQBench (Project)] [Github] [Page]",
+          "description": "MQBench: Towards Reproducible and Deployable Model Quantization Benchmark Yuhang Li and Mingzhu Shen and Jian Ma and Yan Ren and Mingxin Zhao and Qi Zhang and Ruihao Gong and Fengwei Yu and Junjie Yan > SenseTime Research > NeurIPS'21 [MQBench (Project)]  [Github] [Page]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -744,7 +744,7 @@
         {
           "node_type": "item",
           "title": "only_train_once_personal_footprint",
-          "description": "OTOv2: Automatic, Generic, User-Friendly Tianyi Chen, Luming Liang, Tianyu Ding, Ilya Zharkov > Microsoft > ICLR'23 [Only Train Once (Project)] [Github]",
+          "description": "OTOv2: Automatic, Generic, User-Friendly Tianyi Chen, Luming Liang, Tianyu Ding, Ilya Zharkov > Microsoft > ICLR'23 [Only Train Once (Project)]  [Github]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -759,7 +759,7 @@
         {
           "node_type": "item",
           "title": "DeRy",
-          "description": "Deep Model Reassembly Xingyi Yang, Daquan Zhou, Songhua Liu, Jingwen Ye, Xinchao Wang LV Lab, NUS > NeurIPS'22 [Deep Model Reassembly (Project)] [Github] [Page]",
+          "description": "Deep Model Reassembly Xingyi Yang, Daquan Zhou, Songhua Liu, Jingwen Ye, Xinchao Wang LV Lab, NUS > NeurIPS'22 [Deep Model Reassembly (Project)]  [Github] [Page]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -780,7 +780,7 @@
         {
           "node_type": "item",
           "title": "JARVIS",
-          "description": "HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace Yongliang Shen, Kaitao Song, Xu Tan, Dongsheng Li, Weiming Lu, Yueting Zhuang > Zhejiang University, MSRA Preprint'23 [Jarvis (Project)] [Github] [Demo]",
+          "description": "HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace Yongliang Shen, Kaitao Song, Xu Tan, Dongsheng Li, Weiming Lu, Yueting Zhuang > Zhejiang University, MSRA Preprint'23 [Jarvis (Project)]  [Github] [Demo]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -795,7 +795,7 @@
         {
           "node_type": "item",
           "title": "TaskMatrix.AI: Completing Tasks by Connecting Foundation Models with Millions of APIs",
-          "description": "Yaobo Liang, Chenfei Wu, Ting Song, Wenshan Wu, Yan Xia, Yu Liu, Yang Ou, Shuai Lu, Lei Ji, Shaoguang Mao, Yun Wang, Linjun Shou, Ming Gong, Nan Duan > Microsoft > > Preprint'23 [Github]",
+          "description": "Yaobo Liang, Chenfei Wu, Ting Song, Wenshan Wu, Yan Xia, Yu Liu, Yang Ou, Shuai Lu, Lei Ji, Shaoguang Mao, Yun Wang, Linjun Shou, Ming Gong, Nan Duan > Microsoft > > Preprint'23  [Github]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -824,7 +824,7 @@
         },
         {
           "node_type": "item",
-          "title": "[Github",
+          "title": "microsoft/X-Decoder",
           "description": "] [Page] [Demo]",
           "children": [],
           "repo_info": {
@@ -840,7 +840,7 @@
         {
           "node_type": "item",
           "title": "Pretrained-IPT",
-          "description": "Pre-Trained Image Processing Transformer Chen, Hanting and Wang, Yunhe and Guo, Tianyu and Xu, Chang and Deng, Yiping and Liu, Zhenhua and Ma, Siwei and Xu, Chunjing and Xu, Chao and Gao, Wen > Huawei-Noah > CVPR'21 [Pretrained-IPT (Project)] [Github]",
+          "description": "Pre-Trained Image Processing Transformer Chen, Hanting and Wang, Yunhe and Guo, Tianyu and Xu, Chang and Deng, Yiping and Liu, Zhenhua and Ma, Siwei and Xu, Chunjing and Xu, Chao and Gao, Wen > Huawei-Noah > CVPR'21 [Pretrained-IPT (Project)]  [Github]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -855,7 +855,7 @@
         {
           "node_type": "item",
           "title": "OpenAGI",
-          "description": "OpenAGI: When LLM Meets Domain Experts Yingqiang Ge, Wenyue Hua, Jianchao Ji, Juntao Tan, Shuyuan Xu, Yongfeng Zhang > Rutgers University > Preprint'23 [OpenAGI (Project)] Github",
+          "description": "OpenAGI: When LLM Meets Domain Experts Yingqiang Ge, Wenyue Hua, Jianchao Ji, Juntao Tan, Shuyuan Xu, Yongfeng Zhang > Rutgers University > Preprint'23 [OpenAGI (Project)]  Github",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -876,7 +876,7 @@
         {
           "node_type": "item",
           "title": "Caption-Anything",
-          "description": "Caption Anything: Interactive Image Description with Diverse Multimodal Controls Teng Wang, Jinrui Zhang, Junjie Fei, Hao Zheng, Yunlong Tang, Zhe Li, Mingqi Gao, Shanshan Zhao > SUSTech VIP Lab > Preprint'23 Caption Anything (Project) [Github] [Demo]",
+          "description": "Caption Anything: Interactive Image Description with Diverse Multimodal Controls Teng Wang, Jinrui Zhang, Junjie Fei, Hao Zheng, Yunlong Tang, Zhe Li, Mingqi Gao, Shanshan Zhao > SUSTech VIP Lab > Preprint'23 Caption Anything (Project)  [Github] [Demo]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -891,7 +891,7 @@
         {
           "node_type": "item",
           "title": "Image2Paragraph",
-          "description": "Image2Paragraph:Transform Image into Unique Paragraph (Project) Jinpeng Wang Github",
+          "description": "Image2Paragraph:Transform Image into Unique Paragraph (Project) Jinpeng Wang  Github",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -908,7 +908,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T01:58:43.828Z",
+    "last_updated": "2026-08-25T05:59:20.150Z",
     "original_repository": "VainF/Awesome-Anything",
     "original_repository_id": 625876539,
     "original_repository_sha": "bb2b443430347d74d2a45daa9313f26863eebe49",
