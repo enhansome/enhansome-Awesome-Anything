@@ -15,7 +15,7 @@
             "last_commit": "2024-09-18T17:46:55Z",
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 54754
+            "stars": 54755
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2024-09-05T06:07:32Z",
             "owner": "IDEA-Research",
             "repo": "Grounded-Segment-Anything",
-            "stars": 17709
+            "stars": 17707
           }
         },
         {
@@ -87,7 +87,7 @@
             "archived": false,
             "id": 624461258,
             "language": "Python",
-            "last_commit": "2026-08-18T20:23:16Z",
+            "last_commit": "2026-08-24T20:59:00Z",
             "owner": "kadirnar",
             "repo": "segment-anything-video",
             "stars": 983
@@ -345,7 +345,7 @@
             "last_commit": "2024-05-06T20:41:13Z",
             "owner": "kevmo314",
             "repo": "magic-copy",
-            "stars": 2459
+            "stars": 2458
           }
         },
         {
@@ -471,7 +471,7 @@
             "last_commit": "2024-06-18T01:53:49Z",
             "owner": "CompVis",
             "repo": "stable-diffusion",
-            "stars": 73343
+            "stars": 73344
           }
         },
         {
@@ -486,7 +486,7 @@
             "last_commit": "2024-02-25T09:49:39Z",
             "owner": "lllyasviel",
             "repo": "ControlNet",
-            "stars": 34078
+            "stars": 34079
           }
         },
         {
@@ -501,7 +501,7 @@
             "last_commit": "2026-08-22T04:47:40Z",
             "owner": "geekyutao",
             "repo": "Inpaint-Anything",
-            "stars": 7699
+            "stars": 7700
           }
         },
         {
@@ -789,7 +789,7 @@
             "last_commit": "2025-07-29T13:44:13Z",
             "owner": "microsoft",
             "repo": "JARVIS",
-            "stars": 25204
+            "stars": 25206
           }
         },
         {
@@ -908,7 +908,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:06:29.846Z",
+    "last_updated": "2026-08-25T01:58:43.828Z",
     "original_repository": "VainF/Awesome-Anything",
     "original_repository_id": 625876539,
     "original_repository_sha": "bb2b443430347d74d2a45daa9313f26863eebe49",
