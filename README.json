@@ -15,7 +15,7 @@
             "last_commit": "2024-09-18T17:46:55Z",
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 54754
+            "stars": 54755
           }
         },
         {
@@ -360,7 +360,7 @@
             "last_commit": "2025-12-13T11:02:33Z",
             "owner": "gaomingqi",
             "repo": "Track-Anything",
-            "stars": 6993
+            "stars": 6994
           }
         },
         {
@@ -486,7 +486,7 @@
             "last_commit": "2024-02-25T09:49:39Z",
             "owner": "lllyasviel",
             "repo": "ControlNet",
-            "stars": 34079
+            "stars": 34087
           }
         },
         {
@@ -501,7 +501,7 @@
             "last_commit": "2026-08-22T04:47:40Z",
             "owner": "geekyutao",
             "repo": "Inpaint-Anything",
-            "stars": 7700
+            "stars": 7701
           }
         },
         {
@@ -789,7 +789,7 @@
             "last_commit": "2025-07-29T13:44:13Z",
             "owner": "microsoft",
             "repo": "JARVIS",
-            "stars": 25206
+            "stars": 25208
           }
         },
         {
@@ -908,7 +908,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:59:20.150Z",
+    "last_updated": "2026-08-26T02:07:36.611Z",
     "original_repository": "VainF/Awesome-Anything",
     "original_repository_id": 625876539,
     "original_repository_sha": "bb2b443430347d74d2a45daa9313f26863eebe49",
