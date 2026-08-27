@@ -60,7 +60,7 @@
             "last_commit": "2024-09-05T06:07:32Z",
             "owner": "IDEA-Research",
             "repo": "Grounded-Segment-Anything",
-            "stars": 17709
+            "stars": 17710
           }
         },
         {
@@ -471,7 +471,7 @@
             "last_commit": "2024-06-18T01:53:49Z",
             "owner": "CompVis",
             "repo": "stable-diffusion",
-            "stars": 73347
+            "stars": 73348
           }
         },
         {
@@ -789,7 +789,7 @@
             "last_commit": "2025-07-29T13:44:13Z",
             "owner": "microsoft",
             "repo": "JARVIS",
-            "stars": 25208
+            "stars": 25209
           }
         },
         {
@@ -908,9 +908,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T10:04:35.310Z",
-    "original_repository": "VainF/Awesome-Anything",
-    "original_repository_id": 625876539,
+    "last_updated": "2026-08-27T11:23:14.372Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 625876539,
+      "language": null,
+      "last_commit": "2023-11-15T08:34:36Z",
+      "owner": "VainF",
+      "repo": "Awesome-Anything",
+      "stars": 1856
+    },
     "original_repository_sha": "bb2b443430347d74d2a45daa9313f26863eebe49",
     "enhanced_repository": "enhansome/enhansome-Awesome-Anything",
     "enhanced_repository_description": null,
