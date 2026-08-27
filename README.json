@@ -15,7 +15,7 @@
             "last_commit": "2024-09-18T17:46:55Z",
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 54755
+            "stars": 54766
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2024-09-05T06:07:32Z",
             "owner": "IDEA-Research",
             "repo": "Grounded-Segment-Anything",
-            "stars": 17708
+            "stars": 17709
           }
         },
         {
@@ -315,7 +315,7 @@
             "last_commit": "2024-08-19T08:01:54Z",
             "owner": "UX-Decoder",
             "repo": "Segment-Everything-Everywhere-All-At-Once",
-            "stars": 4795
+            "stars": 4794
           }
         },
         {
@@ -420,7 +420,7 @@
             "last_commit": "2023-07-04T17:00:53Z",
             "owner": "EvolvingLMMs-Lab",
             "repo": "RelateAnything",
-            "stars": 471
+            "stars": 472
           }
         },
         {
@@ -471,7 +471,7 @@
             "last_commit": "2024-06-18T01:53:49Z",
             "owner": "CompVis",
             "repo": "stable-diffusion",
-            "stars": 73345
+            "stars": 73347
           }
         },
         {
@@ -486,7 +486,7 @@
             "last_commit": "2024-02-25T09:49:39Z",
             "owner": "lllyasviel",
             "repo": "ControlNet",
-            "stars": 34087
+            "stars": 34094
           }
         },
         {
@@ -501,7 +501,7 @@
             "last_commit": "2026-08-22T04:47:40Z",
             "owner": "geekyutao",
             "repo": "Inpaint-Anything",
-            "stars": 7701
+            "stars": 7704
           }
         },
         {
@@ -723,7 +723,7 @@
             "last_commit": "2025-09-07T17:25:20Z",
             "owner": "VainF",
             "repo": "Torch-Pruning",
-            "stars": 3347
+            "stars": 3348
           }
         },
         {
@@ -804,7 +804,7 @@
             "last_commit": "2024-01-06T02:41:20Z",
             "owner": "chenfei-wu",
             "repo": "TaskMatrix",
-            "stars": 34006
+            "stars": 34001
           }
         },
         {
@@ -908,7 +908,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T02:07:36.611Z",
+    "last_updated": "2026-08-27T10:04:35.310Z",
     "original_repository": "VainF/Awesome-Anything",
     "original_repository_id": 625876539,
     "original_repository_sha": "bb2b443430347d74d2a45daa9313f26863eebe49",
