@@ -372,7 +372,7 @@
             "open_issues": 8,
             "owner": "aliaksandr960",
             "repo": "segment-anything-eo",
-            "stars": 446,
+            "stars": 447,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -532,7 +532,7 @@
             "open_issues": 24,
             "owner": "kevmo314",
             "repo": "magic-copy",
-            "stars": 2457,
+            "stars": 2456,
             "topics": [
               "chrome-extension",
               "computer-vision",
@@ -727,7 +727,7 @@
             "open_issues": 618,
             "owner": "CompVis",
             "repo": "stable-diffusion",
-            "stars": 73356,
+            "stars": 73355,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -1235,10 +1235,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-07-29T13:44:13Z",
-            "open_issues": 4025,
+            "open_issues": 4026,
             "owner": "microsoft",
             "repo": "JARVIS",
-            "stars": 25213,
+            "stars": 25215,
             "topics": [
               "deep-learning",
               "platform",
@@ -1416,7 +1416,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:35:34.246Z",
+    "last_updated": "2026-08-29T07:14:22.499Z",
     "original_repository_info": {
       "archived": false,
       "description": "General AI methods for Anything: AnyObject, AnyGeneration, AnyModel, AnyTask, AnyX",
