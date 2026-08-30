@@ -19,7 +19,7 @@
             "open_issues": 594,
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 54772,
+            "stars": 54777,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -557,7 +557,7 @@
             "open_issues": 114,
             "owner": "gaomingqi",
             "repo": "Track-Anything",
-            "stars": 6993,
+            "stars": 6994,
             "topics": [
               "inpaint-anything",
               "interactive-tracking",
@@ -727,7 +727,7 @@
             "open_issues": 618,
             "owner": "CompVis",
             "repo": "stable-diffusion",
-            "stars": 73355,
+            "stars": 73358,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -748,7 +748,7 @@
             "open_issues": 460,
             "owner": "lllyasviel",
             "repo": "ControlNet",
-            "stars": 34101,
+            "stars": 34102,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -769,7 +769,7 @@
             "open_issues": 114,
             "owner": "geekyutao",
             "repo": "Inpaint-Anything",
-            "stars": 7704,
+            "stars": 7705,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -1235,10 +1235,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-07-29T13:44:13Z",
-            "open_issues": 4026,
+            "open_issues": 4042,
             "owner": "microsoft",
             "repo": "JARVIS",
-            "stars": 25215,
+            "stars": 25218,
             "topics": [
               "deep-learning",
               "platform",
@@ -1263,7 +1263,7 @@
             "open_issues": 261,
             "owner": "chenfei-wu",
             "repo": "TaskMatrix",
-            "stars": 34000,
+            "stars": 33998,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -1416,7 +1416,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T07:14:22.499Z",
+    "last_updated": "2026-08-30T05:36:58.785Z",
     "original_repository_info": {
       "archived": false,
       "description": "General AI methods for Anything: AnyObject, AnyGeneration, AnyModel, AnyTask, AnyX",
