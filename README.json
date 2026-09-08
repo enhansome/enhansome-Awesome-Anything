@@ -19,7 +19,7 @@
             "open_issues": 594,
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 54818,
+            "stars": 54832,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -82,7 +82,7 @@
             "open_issues": 310,
             "owner": "IDEA-Research",
             "repo": "Grounded-Segment-Anything",
-            "stars": 17719,
+            "stars": 17721,
             "topics": [
               "3d-whole-body-pose-estimation",
               "automatic-labeling-system",
@@ -137,7 +137,7 @@
             "id": 624461258,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-31T21:13:42Z",
+            "last_commit": "2026-09-07T21:06:21Z",
             "open_issues": 15,
             "owner": "kadirnar",
             "repo": "segment-anything-video",
@@ -372,7 +372,7 @@
             "open_issues": 8,
             "owner": "aliaksandr960",
             "repo": "segment-anything-eo",
-            "stars": 447,
+            "stars": 448,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -679,7 +679,7 @@
             "open_issues": 10,
             "owner": "Jun-CEN",
             "repo": "SegmentAnyRGBD",
-            "stars": 866,
+            "stars": 867,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -727,7 +727,7 @@
             "open_issues": 618,
             "owner": "CompVis",
             "repo": "stable-diffusion",
-            "stars": 73391,
+            "stars": 73401,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -748,7 +748,7 @@
             "open_issues": 460,
             "owner": "lllyasviel",
             "repo": "ControlNet",
-            "stars": 34113,
+            "stars": 34111,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -769,7 +769,7 @@
             "open_issues": 114,
             "owner": "geekyutao",
             "repo": "Inpaint-Anything",
-            "stars": 7707,
+            "stars": 7708,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -1122,7 +1122,7 @@
             "open_issues": 339,
             "owner": "VainF",
             "repo": "Torch-Pruning",
-            "stars": 3352,
+            "stars": 3353,
             "topics": [
               "efficient-deep-learning",
               "llm",
@@ -1235,10 +1235,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-07-29T13:44:13Z",
-            "open_issues": 4080,
+            "open_issues": 4082,
             "owner": "microsoft",
             "repo": "JARVIS",
-            "stars": 25238,
+            "stars": 25240,
             "topics": [
               "deep-learning",
               "platform",
@@ -1263,7 +1263,7 @@
             "open_issues": 261,
             "owner": "chenfei-wu",
             "repo": "TaskMatrix",
-            "stars": 33987,
+            "stars": 33986,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -1416,7 +1416,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T04:59:35.585Z",
+    "last_updated": "2026-09-08T04:57:22.845Z",
     "original_repository_info": {
       "archived": false,
       "description": "General AI methods for Anything: AnyObject, AnyGeneration, AnyModel, AnyTask, AnyX",
