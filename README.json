@@ -16,7 +16,7 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2024-09-18T17:46:55Z",
-            "open_issues": 595,
+            "open_issues": 594,
             "owner": "facebookresearch",
             "repo": "segment-anything",
             "stars": 54864,
@@ -82,7 +82,7 @@
             "open_issues": 310,
             "owner": "IDEA-Research",
             "repo": "Grounded-Segment-Anything",
-            "stars": 17725,
+            "stars": 17728,
             "topics": [
               "3d-whole-body-pose-estimation",
               "automatic-labeling-system",
@@ -112,7 +112,7 @@
             "open_issues": 60,
             "owner": "baaivision",
             "repo": "Painter",
-            "stars": 2595,
+            "stars": 2596,
             "topics": [
               "cvpr2023",
               "generalist-model",
@@ -658,7 +658,7 @@
             "open_issues": 6,
             "owner": "EvolvingLMMs-Lab",
             "repo": "RelateAnything",
-            "stars": 472,
+            "stars": 475,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -724,10 +724,10 @@
             "language": "Jupyter Notebook",
             "license": "NOASSERTION",
             "last_commit": "2024-06-18T01:53:49Z",
-            "open_issues": 620,
+            "open_issues": 619,
             "owner": "CompVis",
             "repo": "stable-diffusion",
-            "stars": 73425,
+            "stars": 73432,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -1095,7 +1095,7 @@
             "open_issues": 22,
             "owner": "Pointcept",
             "repo": "SegmentAnything3D",
-            "stars": 1388,
+            "stars": 1387,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -1122,7 +1122,7 @@
             "open_issues": 340,
             "owner": "VainF",
             "repo": "Torch-Pruning",
-            "stars": 3357,
+            "stars": 3358,
             "topics": [
               "efficient-deep-learning",
               "llm",
@@ -1235,10 +1235,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-07-29T13:44:13Z",
-            "open_issues": 4103,
+            "open_issues": 4106,
             "owner": "microsoft",
             "repo": "JARVIS",
-            "stars": 25275,
+            "stars": 25276,
             "topics": [
               "deep-learning",
               "platform",
@@ -1416,7 +1416,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T05:06:43.959Z",
+    "last_updated": "2026-09-16T05:02:14.593Z",
     "original_repository_info": {
       "archived": false,
       "description": "General AI methods for Anything: AnyObject, AnyGeneration, AnyModel, AnyTask, AnyX",
