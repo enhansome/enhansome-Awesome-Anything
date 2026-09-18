@@ -19,7 +19,7 @@
             "open_issues": 594,
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 54871,
+            "stars": 54876,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -532,7 +532,7 @@
             "open_issues": 24,
             "owner": "kevmo314",
             "repo": "magic-copy",
-            "stars": 2456,
+            "stars": 2455,
             "topics": [
               "chrome-extension",
               "computer-vision",
@@ -557,7 +557,7 @@
             "open_issues": 114,
             "owner": "gaomingqi",
             "repo": "Track-Anything",
-            "stars": 7000,
+            "stars": 6999,
             "topics": [
               "inpaint-anything",
               "interactive-tracking",
@@ -727,7 +727,7 @@
             "open_issues": 619,
             "owner": "CompVis",
             "repo": "stable-diffusion",
-            "stars": 73437,
+            "stars": 73442,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -748,7 +748,7 @@
             "open_issues": 461,
             "owner": "lllyasviel",
             "repo": "ControlNet",
-            "stars": 34114,
+            "stars": 34117,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -1095,7 +1095,7 @@
             "open_issues": 22,
             "owner": "Pointcept",
             "repo": "SegmentAnything3D",
-            "stars": 1387,
+            "stars": 1388,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -1235,10 +1235,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-07-29T13:44:13Z",
-            "open_issues": 4109,
+            "open_issues": 4113,
             "owner": "microsoft",
             "repo": "JARVIS",
-            "stars": 25282,
+            "stars": 25288,
             "topics": [
               "deep-learning",
               "platform",
@@ -1263,7 +1263,7 @@
             "open_issues": 261,
             "owner": "chenfei-wu",
             "repo": "TaskMatrix",
-            "stars": 33980,
+            "stars": 33979,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -1347,7 +1347,7 @@
             "open_issues": 10,
             "owner": "agiresearch",
             "repo": "OpenAGI",
-            "stars": 2282,
+            "stars": 2283,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -1416,7 +1416,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T05:04:49.735Z",
+    "last_updated": "2026-09-18T04:57:23.656Z",
     "original_repository_info": {
       "archived": false,
       "description": "General AI methods for Anything: AnyObject, AnyGeneration, AnyModel, AnyTask, AnyX",
