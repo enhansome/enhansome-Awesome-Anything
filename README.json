@@ -19,7 +19,7 @@
             "open_issues": 594,
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 54876,
+            "stars": 54880,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -192,7 +192,7 @@
             "open_issues": 27,
             "owner": "fudan-zvg",
             "repo": "Semantic-Segment-Anything",
-            "stars": 2301,
+            "stars": 2302,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -490,7 +490,7 @@
             "open_issues": 60,
             "owner": "UX-Decoder",
             "repo": "Segment-Everything-Everywhere-All-At-Once",
-            "stars": 4792,
+            "stars": 4791,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -700,7 +700,7 @@
             "open_issues": 14,
             "owner": "jamesjg",
             "repo": "FoodSAM",
-            "stars": 185,
+            "stars": 184,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -727,7 +727,7 @@
             "open_issues": 619,
             "owner": "CompVis",
             "repo": "stable-diffusion",
-            "stars": 73442,
+            "stars": 73448,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -748,7 +748,7 @@
             "open_issues": 461,
             "owner": "lllyasviel",
             "repo": "ControlNet",
-            "stars": 34117,
+            "stars": 34115,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -1235,10 +1235,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-07-29T13:44:13Z",
-            "open_issues": 4113,
+            "open_issues": 4115,
             "owner": "microsoft",
             "repo": "JARVIS",
-            "stars": 25288,
+            "stars": 25297,
             "topics": [
               "deep-learning",
               "platform",
@@ -1347,7 +1347,7 @@
             "open_issues": 10,
             "owner": "agiresearch",
             "repo": "OpenAGI",
-            "stars": 2283,
+            "stars": 2284,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -1416,7 +1416,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T04:57:23.656Z",
+    "last_updated": "2026-09-19T04:50:18.561Z",
     "original_repository_info": {
       "archived": false,
       "description": "General AI methods for Anything: AnyObject, AnyGeneration, AnyModel, AnyTask, AnyX",
