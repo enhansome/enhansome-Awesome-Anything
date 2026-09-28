@@ -141,7 +141,7 @@
             "open_issues": 15,
             "owner": "kadirnar",
             "repo": "segment-anything-video",
-            "stars": 983,
+            "stars": 984,
             "topics": [
               "object-detection",
               "object-segmentation",
@@ -192,7 +192,7 @@
             "open_issues": 27,
             "owner": "fudan-zvg",
             "repo": "Semantic-Segment-Anything",
-            "stars": 2303,
+            "stars": 2304,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -259,7 +259,7 @@
             "open_issues": 24,
             "owner": "anuragxel",
             "repo": "salt",
-            "stars": 1048,
+            "stars": 1049,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -610,7 +610,7 @@
             "open_issues": 42,
             "owner": "z-x-yang",
             "repo": "Segment-and-Track-Anything",
-            "stars": 3140,
+            "stars": 3141,
             "topics": [
               "interactive-segmentation",
               "segment-anything",
@@ -658,7 +658,7 @@
             "open_issues": 6,
             "owner": "EvolvingLMMs-Lab",
             "repo": "RelateAnything",
-            "stars": 507,
+            "stars": 508,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -727,7 +727,7 @@
             "open_issues": 619,
             "owner": "CompVis",
             "repo": "stable-diffusion",
-            "stars": 73479,
+            "stars": 73484,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -1070,7 +1070,7 @@
             "open_issues": 7,
             "owner": "JIA-Lab-research",
             "repo": "3D-Box-Segment-Anything",
-            "stars": 564,
+            "stars": 565,
             "topics": [
               "3d",
               "autonomous-driving",
@@ -1122,7 +1122,7 @@
             "open_issues": 340,
             "owner": "VainF",
             "repo": "Torch-Pruning",
-            "stars": 3358,
+            "stars": 3357,
             "topics": [
               "efficient-deep-learning",
               "llm",
@@ -1235,10 +1235,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-07-29T13:44:13Z",
-            "open_issues": 4131,
+            "open_issues": 4133,
             "owner": "microsoft",
             "repo": "JARVIS",
-            "stars": 25341,
+            "stars": 25349,
             "topics": [
               "deep-learning",
               "platform",
@@ -1263,7 +1263,7 @@
             "open_issues": 262,
             "owner": "chenfei-wu",
             "repo": "TaskMatrix",
-            "stars": 33978,
+            "stars": 33976,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -1416,7 +1416,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T05:30:27.885Z",
+    "last_updated": "2026-09-28T05:40:33.285Z",
     "original_repository_info": {
       "archived": false,
       "description": "General AI methods for Anything: AnyObject, AnyGeneration, AnyModel, AnyTask, AnyX",
