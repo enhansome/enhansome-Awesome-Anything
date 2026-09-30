@@ -19,7 +19,7 @@
             "open_issues": 595,
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 54951,
+            "stars": 54953,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -112,7 +112,7 @@
             "open_issues": 60,
             "owner": "baaivision",
             "repo": "Painter",
-            "stars": 2597,
+            "stars": 2598,
             "topics": [
               "cvpr2023",
               "generalist-model",
@@ -213,7 +213,7 @@
             "open_issues": 10,
             "owner": "Saiyan-World",
             "repo": "grounded-segment-any-parts",
-            "stars": 417,
+            "stars": 418,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -490,7 +490,7 @@
             "open_issues": 60,
             "owner": "UX-Decoder",
             "repo": "Segment-Everything-Everywhere-All-At-Once",
-            "stars": 4792,
+            "stars": 4791,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -557,7 +557,7 @@
             "open_issues": 114,
             "owner": "gaomingqi",
             "repo": "Track-Anything",
-            "stars": 7004,
+            "stars": 7005,
             "topics": [
               "inpaint-anything",
               "interactive-tracking",
@@ -658,7 +658,7 @@
             "open_issues": 6,
             "owner": "EvolvingLMMs-Lab",
             "repo": "RelateAnything",
-            "stars": 510,
+            "stars": 516,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -727,7 +727,7 @@
             "open_issues": 619,
             "owner": "CompVis",
             "repo": "stable-diffusion",
-            "stars": 73488,
+            "stars": 73490,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -748,7 +748,7 @@
             "open_issues": 461,
             "owner": "lllyasviel",
             "repo": "ControlNet",
-            "stars": 34125,
+            "stars": 34124,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -769,7 +769,7 @@
             "open_issues": 114,
             "owner": "geekyutao",
             "repo": "Inpaint-Anything",
-            "stars": 7722,
+            "stars": 7723,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -858,7 +858,7 @@
             "open_issues": 4,
             "owner": "Curt-Park",
             "repo": "segment-anything-with-clip",
-            "stars": 352,
+            "stars": 353,
             "topics": [
               "colab-notebook",
               "huggingface-spaces",
@@ -1122,7 +1122,7 @@
             "open_issues": 340,
             "owner": "VainF",
             "repo": "Torch-Pruning",
-            "stars": 3357,
+            "stars": 3358,
             "topics": [
               "efficient-deep-learning",
               "llm",
@@ -1235,10 +1235,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-07-29T13:44:13Z",
-            "open_issues": 4138,
+            "open_issues": 4142,
             "owner": "microsoft",
             "repo": "JARVIS",
-            "stars": 25355,
+            "stars": 25360,
             "topics": [
               "deep-learning",
               "platform",
@@ -1263,7 +1263,7 @@
             "open_issues": 262,
             "owner": "chenfei-wu",
             "repo": "TaskMatrix",
-            "stars": 33976,
+            "stars": 33977,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -1416,7 +1416,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T05:58:06.834Z",
+    "last_updated": "2026-09-30T05:47:16.098Z",
     "original_repository_info": {
       "archived": false,
       "description": "General AI methods for Anything: AnyObject, AnyGeneration, AnyModel, AnyTask, AnyX",
