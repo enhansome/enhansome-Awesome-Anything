@@ -1238,7 +1238,7 @@
             "open_issues": 4153,
             "owner": "microsoft",
             "repo": "JARVIS",
-            "stars": 25379,
+            "stars": 25378,
             "topics": [
               "deep-learning",
               "platform",
@@ -1416,7 +1416,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:24:11.651Z",
+    "last_updated": "2026-10-03T05:32:32.207Z",
     "original_repository_info": {
       "archived": false,
       "description": "General AI methods for Anything: AnyObject, AnyGeneration, AnyModel, AnyTask, AnyX",
