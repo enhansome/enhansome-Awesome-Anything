@@ -19,7 +19,7 @@
             "open_issues": 595,
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 54964,
+            "stars": 54962,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -727,7 +727,7 @@
             "open_issues": 620,
             "owner": "CompVis",
             "repo": "stable-diffusion",
-            "stars": 73491,
+            "stars": 73493,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -1122,7 +1122,7 @@
             "open_issues": 340,
             "owner": "VainF",
             "repo": "Torch-Pruning",
-            "stars": 3359,
+            "stars": 3358,
             "topics": [
               "efficient-deep-learning",
               "llm",
@@ -1238,7 +1238,7 @@
             "open_issues": 4156,
             "owner": "microsoft",
             "repo": "JARVIS",
-            "stars": 25384,
+            "stars": 25387,
             "topics": [
               "deep-learning",
               "platform",
@@ -1263,7 +1263,7 @@
             "open_issues": 262,
             "owner": "chenfei-wu",
             "repo": "TaskMatrix",
-            "stars": 33973,
+            "stars": 33972,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -1416,7 +1416,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T06:08:23.149Z",
+    "last_updated": "2026-10-05T06:00:30.742Z",
     "original_repository_info": {
       "archived": false,
       "description": "General AI methods for Anything: AnyObject, AnyGeneration, AnyModel, AnyTask, AnyX",
