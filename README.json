@@ -19,7 +19,7 @@
             "open_issues": 595,
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 54964,
+            "stars": 54967,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -82,7 +82,7 @@
             "open_issues": 310,
             "owner": "IDEA-Research",
             "repo": "Grounded-Segment-Anything",
-            "stars": 17747,
+            "stars": 17750,
             "topics": [
               "3d-whole-body-pose-estimation",
               "automatic-labeling-system",
@@ -490,7 +490,7 @@
             "open_issues": 60,
             "owner": "UX-Decoder",
             "repo": "Segment-Everything-Everywhere-All-At-Once",
-            "stars": 4792,
+            "stars": 4793,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -532,7 +532,7 @@
             "open_issues": 24,
             "owner": "kevmo314",
             "repo": "magic-copy",
-            "stars": 2454,
+            "stars": 2453,
             "topics": [
               "chrome-extension",
               "computer-vision",
@@ -727,7 +727,7 @@
             "open_issues": 620,
             "owner": "CompVis",
             "repo": "stable-diffusion",
-            "stars": 73493,
+            "stars": 73489,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -748,7 +748,7 @@
             "open_issues": 461,
             "owner": "lllyasviel",
             "repo": "ControlNet",
-            "stars": 34124,
+            "stars": 34129,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -811,7 +811,7 @@
             "open_issues": 45,
             "owner": "sail-sg",
             "repo": "EditAnything",
-            "stars": 3422,
+            "stars": 3423,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -1001,7 +1001,7 @@
             "open_issues": 2,
             "owner": "Pointcept",
             "repo": "OpenIns3D",
-            "stars": 210,
+            "stars": 211,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -1235,10 +1235,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-07-29T13:44:13Z",
-            "open_issues": 4178,
+            "open_issues": 4186,
             "owner": "microsoft",
             "repo": "JARVIS",
-            "stars": 25399,
+            "stars": 25400,
             "topics": [
               "deep-learning",
               "platform",
@@ -1263,7 +1263,7 @@
             "open_issues": 262,
             "owner": "chenfei-wu",
             "repo": "TaskMatrix",
-            "stars": 33968,
+            "stars": 33965,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -1401,7 +1401,7 @@
             "open_issues": 19,
             "owner": "showlab",
             "repo": "Image2Paragraph",
-            "stars": 821,
+            "stars": 820,
             "topics": [
               "chatgpt",
               "gpt4",
@@ -1416,7 +1416,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T06:15:45.942Z",
+    "last_updated": "2026-10-08T06:25:25.328Z",
     "original_repository_info": {
       "archived": false,
       "description": "General AI methods for Anything: AnyObject, AnyGeneration, AnyModel, AnyTask, AnyX",
