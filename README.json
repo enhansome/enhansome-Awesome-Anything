@@ -19,7 +19,7 @@
             "open_issues": 595,
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 54979,
+            "stars": 54984,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -82,7 +82,7 @@
             "open_issues": 310,
             "owner": "IDEA-Research",
             "repo": "Grounded-Segment-Anything",
-            "stars": 17752,
+            "stars": 17754,
             "topics": [
               "3d-whole-body-pose-estimation",
               "automatic-labeling-system",
@@ -490,7 +490,7 @@
             "open_issues": 60,
             "owner": "UX-Decoder",
             "repo": "Segment-Everything-Everywhere-All-At-Once",
-            "stars": 4794,
+            "stars": 4793,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -610,7 +610,7 @@
             "open_issues": 42,
             "owner": "z-x-yang",
             "repo": "Segment-and-Track-Anything",
-            "stars": 3140,
+            "stars": 3141,
             "topics": [
               "interactive-segmentation",
               "segment-anything",
@@ -727,7 +727,7 @@
             "open_issues": 620,
             "owner": "CompVis",
             "repo": "stable-diffusion",
-            "stars": 73481,
+            "stars": 73486,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -748,7 +748,7 @@
             "open_issues": 461,
             "owner": "lllyasviel",
             "repo": "ControlNet",
-            "stars": 34131,
+            "stars": 34130,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -811,7 +811,7 @@
             "open_issues": 45,
             "owner": "sail-sg",
             "repo": "EditAnything",
-            "stars": 3423,
+            "stars": 3424,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -832,7 +832,7 @@
             "open_issues": 72,
             "owner": "continue-revolution",
             "repo": "sd-webui-segment-anything",
-            "stars": 3498,
+            "stars": 3497,
             "topics": [
               "segment-anything",
               "stable-diffusion",
@@ -1235,10 +1235,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-07-29T13:44:13Z",
-            "open_issues": 4204,
+            "open_issues": 4208,
             "owner": "microsoft",
             "repo": "JARVIS",
-            "stars": 25410,
+            "stars": 25418,
             "topics": [
               "deep-learning",
               "platform",
@@ -1263,7 +1263,7 @@
             "open_issues": 262,
             "owner": "chenfei-wu",
             "repo": "TaskMatrix",
-            "stars": 33957,
+            "stars": 33955,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -1347,7 +1347,7 @@
             "open_issues": 10,
             "owner": "agiresearch",
             "repo": "OpenAGI",
-            "stars": 2286,
+            "stars": 2287,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -1374,7 +1374,7 @@
             "open_issues": 20,
             "owner": "ttengwang",
             "repo": "Caption-Anything",
-            "stars": 1776,
+            "stars": 1775,
             "topics": [
               "chatgpt",
               "controllable-generation",
@@ -1416,7 +1416,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T06:09:01.068Z",
+    "last_updated": "2026-10-11T06:06:36.888Z",
     "original_repository_info": {
       "archived": false,
       "description": "General AI methods for Anything: AnyObject, AnyGeneration, AnyModel, AnyTask, AnyX",
