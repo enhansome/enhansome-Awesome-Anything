@@ -19,7 +19,7 @@
             "open_issues": 595,
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 54984,
+            "stars": 54985,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -463,7 +463,7 @@
             "open_issues": 1,
             "owner": "MaybeShewill-CV",
             "repo": "segment-anything-u-specify",
-            "stars": 181,
+            "stars": 180,
             "topics": [
               "deep-learning",
               "instance-segmentation",
@@ -490,7 +490,7 @@
             "open_issues": 60,
             "owner": "UX-Decoder",
             "repo": "Segment-Everything-Everywhere-All-At-Once",
-            "stars": 4793,
+            "stars": 4792,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -511,7 +511,7 @@
             "open_issues": 14,
             "owner": "lujiazho",
             "repo": "SegDrawer",
-            "stars": 397,
+            "stars": 396,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -532,7 +532,7 @@
             "open_issues": 24,
             "owner": "kevmo314",
             "repo": "magic-copy",
-            "stars": 2454,
+            "stars": 2455,
             "topics": [
               "chrome-extension",
               "computer-vision",
@@ -727,7 +727,7 @@
             "open_issues": 620,
             "owner": "CompVis",
             "repo": "stable-diffusion",
-            "stars": 73486,
+            "stars": 73488,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -832,7 +832,7 @@
             "open_issues": 72,
             "owner": "continue-revolution",
             "repo": "sd-webui-segment-anything",
-            "stars": 3497,
+            "stars": 3498,
             "topics": [
               "segment-anything",
               "stable-diffusion",
@@ -1122,7 +1122,7 @@
             "open_issues": 340,
             "owner": "VainF",
             "repo": "Torch-Pruning",
-            "stars": 3359,
+            "stars": 3358,
             "topics": [
               "efficient-deep-learning",
               "llm",
@@ -1150,7 +1150,7 @@
             "open_issues": 17,
             "owner": "ModelTC",
             "repo": "MQBench",
-            "stars": 884,
+            "stars": 885,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -1238,7 +1238,7 @@
             "open_issues": 4208,
             "owner": "microsoft",
             "repo": "JARVIS",
-            "stars": 25418,
+            "stars": 25423,
             "topics": [
               "deep-learning",
               "platform",
@@ -1416,7 +1416,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T06:06:36.888Z",
+    "last_updated": "2026-10-12T06:16:08.847Z",
     "original_repository_info": {
       "archived": false,
       "description": "General AI methods for Anything: AnyObject, AnyGeneration, AnyModel, AnyTask, AnyX",
