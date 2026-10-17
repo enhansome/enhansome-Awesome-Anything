@@ -19,7 +19,7 @@
             "open_issues": 596,
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 55019,
+            "stars": 55030,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -82,7 +82,7 @@
             "open_issues": 310,
             "owner": "IDEA-Research",
             "repo": "Grounded-Segment-Anything",
-            "stars": 17757,
+            "stars": 17758,
             "topics": [
               "3d-whole-body-pose-estimation",
               "automatic-labeling-system",
@@ -490,7 +490,7 @@
             "open_issues": 60,
             "owner": "UX-Decoder",
             "repo": "Segment-Everything-Everywhere-All-At-Once",
-            "stars": 4793,
+            "stars": 4792,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -532,7 +532,7 @@
             "open_issues": 24,
             "owner": "kevmo314",
             "repo": "magic-copy",
-            "stars": 2454,
+            "stars": 2453,
             "topics": [
               "chrome-extension",
               "computer-vision",
@@ -557,7 +557,7 @@
             "open_issues": 114,
             "owner": "gaomingqi",
             "repo": "Track-Anything",
-            "stars": 7011,
+            "stars": 7010,
             "topics": [
               "inpaint-anything",
               "interactive-tracking",
@@ -679,7 +679,7 @@
             "open_issues": 10,
             "owner": "Jun-CEN",
             "repo": "SegmentAnyRGBD",
-            "stars": 867,
+            "stars": 866,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -727,7 +727,7 @@
             "open_issues": 620,
             "owner": "CompVis",
             "repo": "stable-diffusion",
-            "stars": 73519,
+            "stars": 73523,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -748,7 +748,7 @@
             "open_issues": 461,
             "owner": "lllyasviel",
             "repo": "ControlNet",
-            "stars": 34125,
+            "stars": 34123,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -1119,10 +1119,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-09-07T17:25:20Z",
-            "open_issues": 340,
+            "open_issues": 341,
             "owner": "VainF",
             "repo": "Torch-Pruning",
-            "stars": 3361,
+            "stars": 3362,
             "topics": [
               "efficient-deep-learning",
               "llm",
@@ -1235,10 +1235,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-07-29T13:44:13Z",
-            "open_issues": 4221,
+            "open_issues": 4223,
             "owner": "microsoft",
             "repo": "JARVIS",
-            "stars": 25440,
+            "stars": 25445,
             "topics": [
               "deep-learning",
               "platform",
@@ -1263,7 +1263,7 @@
             "open_issues": 262,
             "owner": "chenfei-wu",
             "repo": "TaskMatrix",
-            "stars": 33954,
+            "stars": 33953,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -1284,7 +1284,7 @@
             "open_issues": 19,
             "owner": "microsoft",
             "repo": "X-Decoder",
-            "stars": 1345,
+            "stars": 1344,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -1305,7 +1305,7 @@
             "open_issues": 19,
             "owner": "microsoft",
             "repo": "X-Decoder",
-            "stars": 1345,
+            "stars": 1344,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -1416,7 +1416,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T04:47:14.680Z",
+    "last_updated": "2026-10-17T04:46:33.391Z",
     "original_repository_info": {
       "archived": false,
       "description": "General AI methods for Anything: AnyObject, AnyGeneration, AnyModel, AnyTask, AnyX",
