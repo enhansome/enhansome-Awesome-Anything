@@ -19,7 +19,7 @@
             "open_issues": 596,
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 55056,
+            "stars": 55058,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -40,7 +40,7 @@
             "open_issues": 8,
             "owner": "facebookresearch",
             "repo": "ov-seg",
-            "stars": 757,
+            "stars": 758,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -82,7 +82,7 @@
             "open_issues": 310,
             "owner": "IDEA-Research",
             "repo": "Grounded-Segment-Anything",
-            "stars": 17780,
+            "stars": 17778,
             "topics": [
               "3d-whole-body-pose-estimation",
               "automatic-labeling-system",
@@ -141,7 +141,7 @@
             "open_issues": 15,
             "owner": "kadirnar",
             "repo": "segment-anything-video",
-            "stars": 982,
+            "stars": 981,
             "topics": [
               "object-detection",
               "object-segmentation",
@@ -188,9 +188,9 @@
             "id": 625415628,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2023-06-07T11:54:19Z",
+            "last_commit": "2026-10-24T14:08:34Z",
             "open_issues": 27,
-            "owner": "fudan-zvg",
+            "owner": "LogosIntelligenceLab",
             "repo": "Semantic-Segment-Anything",
             "stars": 2303,
             "topics": []
@@ -305,7 +305,7 @@
             "open_issues": 5,
             "owner": "RockeyCoss",
             "repo": "Prompt-Segment-Anything",
-            "stars": 317,
+            "stars": 318,
             "topics": [
               "instance-segmentation",
               "mmdetection",
@@ -490,7 +490,7 @@
             "open_issues": 60,
             "owner": "UX-Decoder",
             "repo": "Segment-Everything-Everywhere-All-At-Once",
-            "stars": 4791,
+            "stars": 4790,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -658,7 +658,7 @@
             "open_issues": 6,
             "owner": "EvolvingLMMs-Lab",
             "repo": "RelateAnything",
-            "stars": 524,
+            "stars": 526,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -727,7 +727,7 @@
             "open_issues": 620,
             "owner": "CompVis",
             "repo": "stable-diffusion",
-            "stars": 73534,
+            "stars": 73539,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -748,7 +748,7 @@
             "open_issues": 461,
             "owner": "lllyasviel",
             "repo": "ControlNet",
-            "stars": 34129,
+            "stars": 34134,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -769,7 +769,7 @@
             "open_issues": 114,
             "owner": "geekyutao",
             "repo": "Inpaint-Anything",
-            "stars": 7730,
+            "stars": 7731,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -811,7 +811,7 @@
             "open_issues": 45,
             "owner": "sail-sg",
             "repo": "EditAnything",
-            "stars": 3426,
+            "stars": 3425,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -832,7 +832,7 @@
             "open_issues": 72,
             "owner": "continue-revolution",
             "repo": "sd-webui-segment-anything",
-            "stars": 3500,
+            "stars": 3499,
             "topics": [
               "segment-anything",
               "stable-diffusion",
@@ -1022,7 +1022,7 @@
             "open_issues": 9,
             "owner": "Anything-of-anything",
             "repo": "Anything-3D",
-            "stars": 1635,
+            "stars": 1636,
             "topics": [
               "3d",
               "computer-vision",
@@ -1235,10 +1235,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-07-29T13:44:13Z",
-            "open_issues": 4253,
+            "open_issues": 4259,
             "owner": "microsoft",
             "repo": "JARVIS",
-            "stars": 25489,
+            "stars": 25494,
             "topics": [
               "deep-learning",
               "platform",
@@ -1263,7 +1263,7 @@
             "open_issues": 262,
             "owner": "chenfei-wu",
             "repo": "TaskMatrix",
-            "stars": 33940,
+            "stars": 33941,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -1416,7 +1416,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T04:51:45.349Z",
+    "last_updated": "2026-10-25T05:02:23.354Z",
     "original_repository_info": {
       "archived": false,
       "description": "General AI methods for Anything: AnyObject, AnyGeneration, AnyModel, AnyTask, AnyX",
