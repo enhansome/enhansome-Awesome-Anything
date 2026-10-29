@@ -19,7 +19,7 @@
             "open_issues": 596,
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 55071,
+            "stars": 55074,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -82,7 +82,7 @@
             "open_issues": 310,
             "owner": "IDEA-Research",
             "repo": "Grounded-Segment-Anything",
-            "stars": 17789,
+            "stars": 17790,
             "topics": [
               "3d-whole-body-pose-estimation",
               "automatic-labeling-system",
@@ -490,7 +490,7 @@
             "open_issues": 60,
             "owner": "UX-Decoder",
             "repo": "Segment-Everything-Everywhere-All-At-Once",
-            "stars": 4788,
+            "stars": 4787,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -607,7 +607,7 @@
             "language": "Jupyter Notebook",
             "license": "AGPL-3.0",
             "last_commit": "2026-07-03T21:59:37Z",
-            "open_issues": 42,
+            "open_issues": 41,
             "owner": "z-x-yang",
             "repo": "Segment-and-Track-Anything",
             "stars": 3146,
@@ -727,7 +727,7 @@
             "open_issues": 620,
             "owner": "CompVis",
             "repo": "stable-diffusion",
-            "stars": 73545,
+            "stars": 73551,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -748,7 +748,7 @@
             "open_issues": 461,
             "owner": "lllyasviel",
             "repo": "ControlNet",
-            "stars": 34138,
+            "stars": 34137,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -1238,7 +1238,7 @@
             "open_issues": 4267,
             "owner": "microsoft",
             "repo": "JARVIS",
-            "stars": 25516,
+            "stars": 25517,
             "topics": [
               "deep-learning",
               "platform",
@@ -1263,7 +1263,7 @@
             "open_issues": 262,
             "owner": "chenfei-wu",
             "repo": "TaskMatrix",
-            "stars": 33938,
+            "stars": 33935,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -1347,7 +1347,7 @@
             "open_issues": 10,
             "owner": "agiresearch",
             "repo": "OpenAGI",
-            "stars": 2289,
+            "stars": 2291,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -1416,7 +1416,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T05:59:44.325Z",
+    "last_updated": "2026-10-29T06:08:21.601Z",
     "original_repository_info": {
       "archived": false,
       "description": "General AI methods for Anything: AnyObject, AnyGeneration, AnyModel, AnyTask, AnyX",
