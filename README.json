@@ -19,7 +19,7 @@
             "open_issues": 596,
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 55075,
+            "stars": 55083,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -82,7 +82,7 @@
             "open_issues": 310,
             "owner": "IDEA-Research",
             "repo": "Grounded-Segment-Anything",
-            "stars": 17790,
+            "stars": 17789,
             "topics": [
               "3d-whole-body-pose-estimation",
               "automatic-labeling-system",
@@ -727,7 +727,7 @@
             "open_issues": 620,
             "owner": "CompVis",
             "repo": "stable-diffusion",
-            "stars": 73556,
+            "stars": 73559,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -748,7 +748,7 @@
             "open_issues": 461,
             "owner": "lllyasviel",
             "repo": "ControlNet",
-            "stars": 34136,
+            "stars": 34137,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -1171,7 +1171,7 @@
             "open_issues": 11,
             "owner": "tianyic",
             "repo": "only_train_once_personal_footprint",
-            "stars": 311,
+            "stars": 312,
             "topics": [
               "automl",
               "deep-learning",
@@ -1235,10 +1235,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-07-29T13:44:13Z",
-            "open_issues": 4270,
+            "open_issues": 4272,
             "owner": "microsoft",
             "repo": "JARVIS",
-            "stars": 25524,
+            "stars": 25530,
             "topics": [
               "deep-learning",
               "platform",
@@ -1263,7 +1263,7 @@
             "open_issues": 262,
             "owner": "chenfei-wu",
             "repo": "TaskMatrix",
-            "stars": 33930,
+            "stars": 33927,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -1347,7 +1347,7 @@
             "open_issues": 10,
             "owner": "agiresearch",
             "repo": "OpenAGI",
-            "stars": 2291,
+            "stars": 2292,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -1416,7 +1416,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T06:08:41.000Z",
+    "last_updated": "2026-10-31T06:04:04.440Z",
     "original_repository_info": {
       "archived": false,
       "description": "General AI methods for Anything: AnyObject, AnyGeneration, AnyModel, AnyTask, AnyX",
