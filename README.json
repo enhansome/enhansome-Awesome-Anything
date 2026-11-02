@@ -19,7 +19,7 @@
             "open_issues": 596,
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 55084,
+            "stars": 55088,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -141,7 +141,7 @@
             "open_issues": 15,
             "owner": "kadirnar",
             "repo": "segment-anything-video",
-            "stars": 981,
+            "stars": 980,
             "topics": [
               "object-detection",
               "object-segmentation",
@@ -511,7 +511,7 @@
             "open_issues": 14,
             "owner": "lujiazho",
             "repo": "SegDrawer",
-            "stars": 396,
+            "stars": 395,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -610,7 +610,7 @@
             "open_issues": 41,
             "owner": "z-x-yang",
             "repo": "Segment-and-Track-Anything",
-            "stars": 3146,
+            "stars": 3145,
             "topics": [
               "interactive-segmentation",
               "segment-anything",
@@ -727,7 +727,7 @@
             "open_issues": 620,
             "owner": "CompVis",
             "repo": "stable-diffusion",
-            "stars": 73562,
+            "stars": 73564,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -769,7 +769,7 @@
             "open_issues": 114,
             "owner": "geekyutao",
             "repo": "Inpaint-Anything",
-            "stars": 7732,
+            "stars": 7731,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -811,7 +811,7 @@
             "open_issues": 45,
             "owner": "sail-sg",
             "repo": "EditAnything",
-            "stars": 3425,
+            "stars": 3424,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -1235,10 +1235,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-07-29T13:44:13Z",
-            "open_issues": 4272,
+            "open_issues": 4276,
             "owner": "microsoft",
             "repo": "JARVIS",
-            "stars": 25536,
+            "stars": 25543,
             "topics": [
               "deep-learning",
               "platform",
@@ -1263,7 +1263,7 @@
             "open_issues": 262,
             "owner": "chenfei-wu",
             "repo": "TaskMatrix",
-            "stars": 33923,
+            "stars": 33920,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -1416,7 +1416,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T06:33:16.143Z",
+    "last_updated": "2026-11-02T06:33:50.404Z",
     "original_repository_info": {
       "archived": false,
       "description": "General AI methods for Anything: AnyObject, AnyGeneration, AnyModel, AnyTask, AnyX",
@@ -1428,7 +1428,7 @@
       "open_issues": 3,
       "owner": "VainF",
       "repo": "Awesome-Anything",
-      "stars": 1860,
+      "stars": 1862,
       "topics": [
         "anything",
         "anything-ai",
