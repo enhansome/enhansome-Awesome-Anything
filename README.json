@@ -19,7 +19,7 @@
             "open_issues": 596,
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 55099,
+            "stars": 55102,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -82,7 +82,7 @@
             "open_issues": 310,
             "owner": "IDEA-Research",
             "repo": "Grounded-Segment-Anything",
-            "stars": 17790,
+            "stars": 17791,
             "topics": [
               "3d-whole-body-pose-estimation",
               "automatic-labeling-system",
@@ -724,10 +724,10 @@
             "language": "Jupyter Notebook",
             "license": "NOASSERTION",
             "last_commit": "2024-06-18T01:53:49Z",
-            "open_issues": 620,
+            "open_issues": 619,
             "owner": "CompVis",
             "repo": "stable-diffusion",
-            "stars": 73576,
+            "stars": 73574,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -748,7 +748,7 @@
             "open_issues": 461,
             "owner": "lllyasviel",
             "repo": "ControlNet",
-            "stars": 34152,
+            "stars": 34150,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -832,7 +832,7 @@
             "open_issues": 72,
             "owner": "continue-revolution",
             "repo": "sd-webui-segment-anything",
-            "stars": 3498,
+            "stars": 3497,
             "topics": [
               "segment-anything",
               "stable-diffusion",
@@ -962,7 +962,7 @@
             "open_issues": 5,
             "owner": "zzh-tech",
             "repo": "InterpAny-Clearer",
-            "stars": 296,
+            "stars": 295,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -1150,7 +1150,7 @@
             "open_issues": 17,
             "owner": "ModelTC",
             "repo": "MQBench",
-            "stars": 888,
+            "stars": 889,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -1235,10 +1235,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-07-29T13:44:13Z",
-            "open_issues": 4282,
+            "open_issues": 4284,
             "owner": "microsoft",
             "repo": "JARVIS",
-            "stars": 25568,
+            "stars": 25585,
             "topics": [
               "deep-learning",
               "platform",
@@ -1263,7 +1263,7 @@
             "open_issues": 262,
             "owner": "chenfei-wu",
             "repo": "TaskMatrix",
-            "stars": 33914,
+            "stars": 33908,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -1284,7 +1284,7 @@
             "open_issues": 19,
             "owner": "microsoft",
             "repo": "X-Decoder",
-            "stars": 1344,
+            "stars": 1343,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -1305,7 +1305,7 @@
             "open_issues": 19,
             "owner": "microsoft",
             "repo": "X-Decoder",
-            "stars": 1344,
+            "stars": 1343,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -1416,7 +1416,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T07:07:36.886Z",
+    "last_updated": "2026-11-07T06:19:38.533Z",
     "original_repository_info": {
       "archived": false,
       "description": "General AI methods for Anything: AnyObject, AnyGeneration, AnyModel, AnyTask, AnyX",
