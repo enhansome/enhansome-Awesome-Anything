@@ -16,10 +16,10 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2024-09-18T17:46:55Z",
-            "open_issues": 596,
+            "open_issues": 597,
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 55127,
+            "stars": 55131,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -82,7 +82,7 @@
             "open_issues": 310,
             "owner": "IDEA-Research",
             "repo": "Grounded-Segment-Anything",
-            "stars": 17794,
+            "stars": 17796,
             "topics": [
               "3d-whole-body-pose-estimation",
               "automatic-labeling-system",
@@ -112,7 +112,7 @@
             "open_issues": 60,
             "owner": "baaivision",
             "repo": "Painter",
-            "stars": 2599,
+            "stars": 2598,
             "topics": [
               "cvpr2023",
               "generalist-model",
@@ -557,7 +557,7 @@
             "open_issues": 114,
             "owner": "gaomingqi",
             "repo": "Track-Anything",
-            "stars": 7016,
+            "stars": 7015,
             "topics": [
               "inpaint-anything",
               "interactive-tracking",
@@ -610,7 +610,7 @@
             "open_issues": 41,
             "owner": "z-x-yang",
             "repo": "Segment-and-Track-Anything",
-            "stars": 3146,
+            "stars": 3147,
             "topics": [
               "interactive-segmentation",
               "segment-anything",
@@ -697,7 +697,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2024-01-24T10:06:55Z",
-            "open_issues": 14,
+            "open_issues": 15,
             "owner": "jamesjg",
             "repo": "FoodSAM",
             "stars": 184,
@@ -727,7 +727,7 @@
             "open_issues": 619,
             "owner": "CompVis",
             "repo": "stable-diffusion",
-            "stars": 73573,
+            "stars": 73576,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -832,7 +832,7 @@
             "open_issues": 72,
             "owner": "continue-revolution",
             "repo": "sd-webui-segment-anything",
-            "stars": 3493,
+            "stars": 3492,
             "topics": [
               "segment-anything",
               "stable-diffusion",
@@ -1022,7 +1022,7 @@
             "open_issues": 9,
             "owner": "Anything-of-anything",
             "repo": "Anything-3D",
-            "stars": 1639,
+            "stars": 1640,
             "topics": [
               "3d",
               "computer-vision",
@@ -1049,7 +1049,7 @@
             "open_issues": 0,
             "owner": "nexuslrf",
             "repo": "SAM-3D-Selector",
-            "stars": 47,
+            "stars": 48,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -1235,10 +1235,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-07-29T13:44:13Z",
-            "open_issues": 4294,
+            "open_issues": 4297,
             "owner": "microsoft",
             "repo": "JARVIS",
-            "stars": 25629,
+            "stars": 25638,
             "topics": [
               "deep-learning",
               "platform",
@@ -1416,7 +1416,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T07:29:32.396Z",
+    "last_updated": "2026-11-13T07:00:23.116Z",
     "original_repository_info": {
       "archived": false,
       "description": "General AI methods for Anything: AnyObject, AnyGeneration, AnyModel, AnyTask, AnyX",
@@ -1428,7 +1428,7 @@
       "open_issues": 3,
       "owner": "VainF",
       "repo": "Awesome-Anything",
-      "stars": 1862,
+      "stars": 1864,
       "topics": [
         "anything",
         "anything-ai",
