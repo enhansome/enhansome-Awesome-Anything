@@ -19,7 +19,7 @@
             "open_issues": 597,
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 55131,
+            "stars": 55135,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -112,7 +112,7 @@
             "open_issues": 60,
             "owner": "baaivision",
             "repo": "Painter",
-            "stars": 2598,
+            "stars": 2599,
             "topics": [
               "cvpr2023",
               "generalist-model",
@@ -532,7 +532,7 @@
             "open_issues": 24,
             "owner": "kevmo314",
             "repo": "magic-copy",
-            "stars": 2452,
+            "stars": 2451,
             "topics": [
               "chrome-extension",
               "computer-vision",
@@ -727,7 +727,7 @@
             "open_issues": 619,
             "owner": "CompVis",
             "repo": "stable-diffusion",
-            "stars": 73576,
+            "stars": 73577,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -748,7 +748,7 @@
             "open_issues": 461,
             "owner": "lllyasviel",
             "repo": "ControlNet",
-            "stars": 34155,
+            "stars": 34157,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -1118,11 +1118,11 @@
             "id": 228203350,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2025-09-07T17:25:20Z",
-            "open_issues": 344,
+            "last_commit": "2026-11-13T21:19:23Z",
+            "open_issues": 333,
             "owner": "VainF",
             "repo": "Torch-Pruning",
-            "stars": 3371,
+            "stars": 3373,
             "topics": [
               "efficient-deep-learning",
               "llm",
@@ -1235,10 +1235,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-07-29T13:44:13Z",
-            "open_issues": 4297,
+            "open_issues": 4301,
             "owner": "microsoft",
             "repo": "JARVIS",
-            "stars": 25638,
+            "stars": 25649,
             "topics": [
               "deep-learning",
               "platform",
@@ -1347,7 +1347,7 @@
             "open_issues": 10,
             "owner": "agiresearch",
             "repo": "OpenAGI",
-            "stars": 2295,
+            "stars": 2294,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -1416,7 +1416,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T07:00:23.116Z",
+    "last_updated": "2026-11-14T06:49:52.714Z",
     "original_repository_info": {
       "archived": false,
       "description": "General AI methods for Anything: AnyObject, AnyGeneration, AnyModel, AnyTask, AnyX",
