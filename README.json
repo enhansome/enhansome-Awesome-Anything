@@ -19,7 +19,7 @@
             "open_issues": 597,
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 55139,
+            "stars": 55144,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -61,7 +61,7 @@
             "open_issues": 12,
             "owner": "ronghanghu",
             "repo": "seg_every_thing",
-            "stars": 423,
+            "stars": 424,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -82,7 +82,7 @@
             "open_issues": 310,
             "owner": "IDEA-Research",
             "repo": "Grounded-Segment-Anything",
-            "stars": 17796,
+            "stars": 17797,
             "topics": [
               "3d-whole-body-pose-estimation",
               "automatic-labeling-system",
@@ -137,7 +137,7 @@
             "id": 624461258,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-09T21:13:22Z",
+            "last_commit": "2026-11-16T21:16:22Z",
             "open_issues": 15,
             "owner": "kadirnar",
             "repo": "segment-anything-video",
@@ -748,7 +748,7 @@
             "open_issues": 461,
             "owner": "lllyasviel",
             "repo": "ControlNet",
-            "stars": 34159,
+            "stars": 34157,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -769,7 +769,7 @@
             "open_issues": 114,
             "owner": "geekyutao",
             "repo": "Inpaint-Anything",
-            "stars": 7737,
+            "stars": 7738,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -811,7 +811,7 @@
             "open_issues": 45,
             "owner": "sail-sg",
             "repo": "EditAnything",
-            "stars": 3421,
+            "stars": 3420,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -858,7 +858,7 @@
             "open_issues": 4,
             "owner": "Curt-Park",
             "repo": "segment-anything-with-clip",
-            "stars": 353,
+            "stars": 354,
             "topics": [
               "colab-notebook",
               "huggingface-spaces",
@@ -1235,10 +1235,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-07-29T13:44:13Z",
-            "open_issues": 4310,
+            "open_issues": 4315,
             "owner": "microsoft",
             "repo": "JARVIS",
-            "stars": 25665,
+            "stars": 25681,
             "topics": [
               "deep-learning",
               "platform",
@@ -1416,7 +1416,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T06:59:20.207Z",
+    "last_updated": "2026-11-17T08:14:21.873Z",
     "original_repository_info": {
       "archived": false,
       "description": "General AI methods for Anything: AnyObject, AnyGeneration, AnyModel, AnyTask, AnyX",
