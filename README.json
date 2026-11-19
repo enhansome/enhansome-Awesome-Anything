@@ -19,7 +19,7 @@
             "open_issues": 598,
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 55152,
+            "stars": 55155,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -82,7 +82,7 @@
             "open_issues": 310,
             "owner": "IDEA-Research",
             "repo": "Grounded-Segment-Anything",
-            "stars": 17798,
+            "stars": 17797,
             "topics": [
               "3d-whole-body-pose-estimation",
               "automatic-labeling-system",
@@ -234,7 +234,7 @@
             "open_issues": 12,
             "owner": "caoyunkang",
             "repo": "Segment-Any-Anomaly",
-            "stars": 839,
+            "stars": 838,
             "topics": [
               "anomaly-detection",
               "foundation",
@@ -280,7 +280,7 @@
             "open_issues": 12,
             "owner": "caoyunkang",
             "repo": "Segment-Any-Anomaly",
-            "stars": 839,
+            "stars": 838,
             "topics": [
               "anomaly-detection",
               "foundation",
@@ -532,7 +532,7 @@
             "open_issues": 24,
             "owner": "kevmo314",
             "repo": "magic-copy",
-            "stars": 2450,
+            "stars": 2448,
             "topics": [
               "chrome-extension",
               "computer-vision",
@@ -557,7 +557,7 @@
             "open_issues": 114,
             "owner": "gaomingqi",
             "repo": "Track-Anything",
-            "stars": 7014,
+            "stars": 7013,
             "topics": [
               "inpaint-anything",
               "interactive-tracking",
@@ -727,7 +727,7 @@
             "open_issues": 619,
             "owner": "CompVis",
             "repo": "stable-diffusion",
-            "stars": 73577,
+            "stars": 73583,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -748,7 +748,7 @@
             "open_issues": 461,
             "owner": "lllyasviel",
             "repo": "ControlNet",
-            "stars": 34157,
+            "stars": 34158,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -769,7 +769,7 @@
             "open_issues": 114,
             "owner": "geekyutao",
             "repo": "Inpaint-Anything",
-            "stars": 7738,
+            "stars": 7739,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -1235,10 +1235,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-07-29T13:44:13Z",
-            "open_issues": 4319,
+            "open_issues": 4323,
             "owner": "microsoft",
             "repo": "JARVIS",
-            "stars": 25701,
+            "stars": 25716,
             "topics": [
               "deep-learning",
               "platform",
@@ -1263,7 +1263,7 @@
             "open_issues": 262,
             "owner": "chenfei-wu",
             "repo": "TaskMatrix",
-            "stars": 33888,
+            "stars": 33886,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -1401,7 +1401,7 @@
             "open_issues": 19,
             "owner": "showlab",
             "repo": "Image2Paragraph",
-            "stars": 820,
+            "stars": 819,
             "topics": [
               "chatgpt",
               "gpt4",
@@ -1416,7 +1416,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T07:47:46.189Z",
+    "last_updated": "2026-11-19T07:43:26.213Z",
     "original_repository_info": {
       "archived": false,
       "description": "General AI methods for Anything: AnyObject, AnyGeneration, AnyModel, AnyTask, AnyX",
