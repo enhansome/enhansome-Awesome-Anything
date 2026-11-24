@@ -19,7 +19,7 @@
             "open_issues": 598,
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 55174,
+            "stars": 55175,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -82,7 +82,7 @@
             "open_issues": 310,
             "owner": "IDEA-Research",
             "repo": "Grounded-Segment-Anything",
-            "stars": 17796,
+            "stars": 17795,
             "topics": [
               "3d-whole-body-pose-estimation",
               "automatic-labeling-system",
@@ -112,7 +112,7 @@
             "open_issues": 60,
             "owner": "baaivision",
             "repo": "Painter",
-            "stars": 2597,
+            "stars": 2596,
             "topics": [
               "cvpr2023",
               "generalist-model",
@@ -137,7 +137,7 @@
             "id": 624461258,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-16T21:16:22Z",
+            "last_commit": "2026-11-23T21:43:01Z",
             "open_issues": 15,
             "owner": "kadirnar",
             "repo": "segment-anything-video",
@@ -490,7 +490,7 @@
             "open_issues": 60,
             "owner": "UX-Decoder",
             "repo": "Segment-Everything-Everywhere-All-At-Once",
-            "stars": 4786,
+            "stars": 4787,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -727,7 +727,7 @@
             "open_issues": 619,
             "owner": "CompVis",
             "repo": "stable-diffusion",
-            "stars": 73596,
+            "stars": 73598,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -748,7 +748,7 @@
             "open_issues": 461,
             "owner": "lllyasviel",
             "repo": "ControlNet",
-            "stars": 34159,
+            "stars": 34165,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -769,7 +769,7 @@
             "open_issues": 114,
             "owner": "geekyutao",
             "repo": "Inpaint-Anything",
-            "stars": 7740,
+            "stars": 7739,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -1235,10 +1235,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-07-29T13:44:13Z",
-            "open_issues": 4329,
+            "open_issues": 4330,
             "owner": "microsoft",
             "repo": "JARVIS",
-            "stars": 25753,
+            "stars": 25764,
             "topics": [
               "deep-learning",
               "platform",
@@ -1263,7 +1263,7 @@
             "open_issues": 262,
             "owner": "chenfei-wu",
             "repo": "TaskMatrix",
-            "stars": 33883,
+            "stars": 33885,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -1284,7 +1284,7 @@
             "open_issues": 19,
             "owner": "microsoft",
             "repo": "X-Decoder",
-            "stars": 1344,
+            "stars": 1343,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -1305,7 +1305,7 @@
             "open_issues": 19,
             "owner": "microsoft",
             "repo": "X-Decoder",
-            "stars": 1344,
+            "stars": 1343,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -1374,7 +1374,7 @@
             "open_issues": 20,
             "owner": "ttengwang",
             "repo": "Caption-Anything",
-            "stars": 1777,
+            "stars": 1776,
             "topics": [
               "chatgpt",
               "controllable-generation",
@@ -1416,7 +1416,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T07:57:46.911Z",
+    "last_updated": "2026-11-24T10:12:05.028Z",
     "original_repository_info": {
       "archived": false,
       "description": "General AI methods for Anything: AnyObject, AnyGeneration, AnyModel, AnyTask, AnyX",
