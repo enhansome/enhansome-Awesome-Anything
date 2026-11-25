@@ -19,7 +19,7 @@
             "open_issues": 598,
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 55175,
+            "stars": 55177,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -557,7 +557,7 @@
             "open_issues": 114,
             "owner": "gaomingqi",
             "repo": "Track-Anything",
-            "stars": 7014,
+            "stars": 7015,
             "topics": [
               "inpaint-anything",
               "interactive-tracking",
@@ -727,7 +727,7 @@
             "open_issues": 619,
             "owner": "CompVis",
             "repo": "stable-diffusion",
-            "stars": 73598,
+            "stars": 73600,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -748,7 +748,7 @@
             "open_issues": 461,
             "owner": "lllyasviel",
             "repo": "ControlNet",
-            "stars": 34165,
+            "stars": 34163,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -769,7 +769,7 @@
             "open_issues": 114,
             "owner": "geekyutao",
             "repo": "Inpaint-Anything",
-            "stars": 7739,
+            "stars": 7740,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -811,7 +811,7 @@
             "open_issues": 45,
             "owner": "sail-sg",
             "repo": "EditAnything",
-            "stars": 3419,
+            "stars": 3420,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -1235,10 +1235,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-07-29T13:44:13Z",
-            "open_issues": 4330,
+            "open_issues": 4332,
             "owner": "microsoft",
             "repo": "JARVIS",
-            "stars": 25764,
+            "stars": 25777,
             "topics": [
               "deep-learning",
               "platform",
@@ -1263,7 +1263,7 @@
             "open_issues": 262,
             "owner": "chenfei-wu",
             "repo": "TaskMatrix",
-            "stars": 33885,
+            "stars": 33882,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -1416,7 +1416,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T10:12:05.028Z",
+    "last_updated": "2026-11-25T08:56:44.190Z",
     "original_repository_info": {
       "archived": false,
       "description": "General AI methods for Anything: AnyObject, AnyGeneration, AnyModel, AnyTask, AnyX",
