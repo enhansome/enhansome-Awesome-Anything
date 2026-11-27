@@ -19,7 +19,7 @@
             "open_issues": 598,
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 55184,
+            "stars": 55183,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -192,7 +192,7 @@
             "open_issues": 27,
             "owner": "LogosIntelligenceLab",
             "repo": "Semantic-Segment-Anything",
-            "stars": 2303,
+            "stars": 2302,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -234,7 +234,7 @@
             "open_issues": 12,
             "owner": "caoyunkang",
             "repo": "Segment-Any-Anomaly",
-            "stars": 838,
+            "stars": 837,
             "topics": [
               "anomaly-detection",
               "foundation",
@@ -280,7 +280,7 @@
             "open_issues": 12,
             "owner": "caoyunkang",
             "repo": "Segment-Any-Anomaly",
-            "stars": 838,
+            "stars": 837,
             "topics": [
               "anomaly-detection",
               "foundation",
@@ -305,7 +305,7 @@
             "open_issues": 5,
             "owner": "RockeyCoss",
             "repo": "Prompt-Segment-Anything",
-            "stars": 317,
+            "stars": 316,
             "topics": [
               "instance-segmentation",
               "mmdetection",
@@ -610,7 +610,7 @@
             "open_issues": 41,
             "owner": "z-x-yang",
             "repo": "Segment-and-Track-Anything",
-            "stars": 3148,
+            "stars": 3147,
             "topics": [
               "interactive-segmentation",
               "segment-anything",
@@ -727,7 +727,7 @@
             "open_issues": 619,
             "owner": "CompVis",
             "repo": "stable-diffusion",
-            "stars": 73612,
+            "stars": 73614,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -748,7 +748,7 @@
             "open_issues": 461,
             "owner": "lllyasviel",
             "repo": "ControlNet",
-            "stars": 34160,
+            "stars": 34159,
             "topics": []
           },
           "first_seen": "2026-08-28T11:36:15.226Z"
@@ -1235,10 +1235,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-07-29T13:44:13Z",
-            "open_issues": 4338,
+            "open_issues": 4341,
             "owner": "microsoft",
             "repo": "JARVIS",
-            "stars": 25784,
+            "stars": 25792,
             "topics": [
               "deep-learning",
               "platform",
@@ -1416,7 +1416,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T08:42:59.924Z",
+    "last_updated": "2026-11-27T08:53:47.331Z",
     "original_repository_info": {
       "archived": false,
       "description": "General AI methods for Anything: AnyObject, AnyGeneration, AnyModel, AnyTask, AnyX",
@@ -1428,7 +1428,7 @@
       "open_issues": 3,
       "owner": "VainF",
       "repo": "Awesome-Anything",
-      "stars": 1863,
+      "stars": 1864,
       "topics": [
         "anything",
         "anything-ai",
